@@ -7,7 +7,8 @@
 [02 About](https://dillonbelmont.com/about)
 [03 PowerMyth Index](https://dillonbelmont.com/powermyths)
 [04 Other Works](https://dillonbelmont.com/other)
-[05 Feedback](https://dillonbelmont.com/feedback)
+[05 FAQ](https://dillonbelmont.com/faq)
+[06 Feedback](https://dillonbelmont.com/feedback)
 
 #### 10 - 19: Power
 ***What is Power?*** Explores different forms and interpretations of power.
@@ -53,7 +54,7 @@
 #### 80 - 89: Power Resources
 ***How do I learn more?*** Explores opportunities to build further knowledge.
 - [[80 - 89 Power Resources/80 Power Resources/80 Power Resources\|80 Power Resources]]
-- [[80 - 89 Power Resources/81 Researchers/81 Researchers\|81 Researchers]]
+- [[80 - 89 Power Resources/81 People/81 People\|81 People]]
 
 #### 90 - Fun Stuff!!
 - Semi-relevant materials (open-source websites, cool organizations, etc.)

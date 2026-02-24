@@ -19,6 +19,7 @@
 #### 20 - 29: Power Myths
 ***What stories perpetuate power?*** Explores recurring myths and their common uses.
 - [[20 - 29 Power Myths/20 Power Myths/20 Power Myths\|20 Power Myths]]
+	- [[20 - 29 Power Myths/20 Power Myths/20.01 Mythoscapes\|20.01 Mythoscapes]]
 - [[20 - 29 Power Myths/21 Demonization/21 Demonization\|21 Demonization]]
 - [[20 - 29 Power Myths/22 Glorification/22 Glorification\|22 Glorification]]
 - [[20 - 29 Power Myths/23 Justification/23 Justification\|23 Justification]]

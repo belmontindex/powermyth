@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/10-19-power/10-power/","tags":["gardenEntry"]}
 ---
 
+## POWER
 *If you would like to see the full page list, please visit the [[00 - 09 Website/00 Site Index\|00 Site Index]].* 
 
 ### What is Power?
@@ -47,7 +48,7 @@ Okay so... let's go back to Dahl's formula, where A can get B to do something B 
 
 Suddenly, one's ability to dominate others is no longer a super satisfying way to define power. These elements that constitute society - institutions, identities, culture, and so on - are everywhere! And even by merely participating in society, you are subject to this power. So sure, there can be domination... but power can also be expressed passively, reproducing itself automatically.
 
-Here, we finally return to the definition posed in the first section of this page. [[80 - 89 Power Resources/81 People/81.02 Clarissa Hayward\|81.02 Clarissa Hayward]] rejects the premise that power is something people "have." Everyone is subject to social boundaries that define what actions are possible. **That*** is what we need to be analyzing. 
+Here, we finally return to the definition posed in the first section of this page. [[80 - 89 Power Resources/81 People/81.02 Clarissa Hayward\|81.02 Clarissa Hayward]] rejects the premise that power is something people "have." Everyone is subject to social boundaries that define what actions are possible. That is what we need to be analyzing. 
 
 ### Uh... Ok, What Next?
 Well, I suppose I understand why people critique power theory lol. We went from a relatively straightforward concept to what seems open-ended, endless, and... yeah. I know!! Sorry!!!
@@ -58,9 +59,11 @@ So! The next page you explore here on the PowerMyth Index doesn't really matter.
 
 Here are some recommendations:
 - If you want to continue with THEORY, head to [[10 - 19 Power/11 Accumulative Types\|11 Accumulative Types]] or [[10 - 19 Power/12 Permeative Types\|12 Permeative Types]]
+
 - If you want the ACTION...
 	- [[20 - 29 Power Myths/20 Power Myths/20 Power Myths\|20 Power Myths]] and [[30 - 39 Power Weapons/31 Mythappropriation/31 Mythappropriation\|31 Mythappropriation]] are good starts to leveraging power
 	- [[50 - 59 Power Tools/50 Power Tools/50 Power Tools\|50 Power Tools]] outlines how power can be generated
+
 - If you want PEOPLE...
 	- Learn how different [[40 - 49 Power Actors/40 Power Actors/40 Power Actors\|40 Power Actors]] have unique relationships with power
 	- Learn how the so-called "powerless" actually became [[60 - 69 Power Builders/60 Power Builders/60 Power Builders\|60 Power Builders]]

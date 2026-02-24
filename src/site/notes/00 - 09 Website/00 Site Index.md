@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-website/00-site-index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-09-website/00-site-index/"}
 ---
 
 [[00 - 09 Website/00 Site Index\|00 Site Index]] (you are here!)

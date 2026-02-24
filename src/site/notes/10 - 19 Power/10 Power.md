@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-power/10-power/"}
+{"dg-publish":true,"permalink":"/10-19-power/10-power/","tags":["gardenEntry"]}
 ---
+
+*If you would like to see the full page list, please visit the [[00 - 09 Website/00 Site Index\|00 Site Index]].* 
 
 ### What is Power?
 	(INTERESTING BLOCKQUOTE HERE)
@@ -13,7 +15,7 @@ In the form of money or job description, power is easily measurable and compared
 
 **All this to say, it's not terribly helpful to *exclusively* consider [[10 - 19 Power/11 Accumulative Types\|11 Accumulative Types]] of power.** Power is too context-dependent to be reduced to "more" or "less." It's more like... energy. Aura. Midi-chlorians. [Nanomachines, son](https://www.youtube.com/watch?v=RhMsboqMMzs). Much like an iceberg, visible expressions of power only represent a small **fraction** of its possible configurations.
 
-After all, what about (***finish brief intro to [[10 - 19 Power/12 Permeative Types\|12 Permeative Types]]***). Power is constituted by the **boundaries that delimit possible fields of action.** 
+After all, what about (***need to finish brief intro to [[10 - 19 Power/12 Permeative Types\|12 Permeative Types]]***). Power is constituted by the **boundaries that delimit possible fields of action.** 
 
 Power is complex; it is defined by contradictions. Just as it subjugates, it subtly guides. Just as it is driven through legislation, it is driven through conversation. Just as it is acquired by an economic elite, it is built by people living on the street.
 
@@ -45,19 +47,24 @@ Okay so... let's go back to Dahl's formula, where A can get B to do something B 
 
 Suddenly, one's ability to dominate others is no longer a super satisfying way to define power. These elements that constitute society - institutions, identities, culture, and so on - are everywhere! And even by merely participating in society, you are subject to this power. So sure, there can be domination... but power can also be expressed passively, reproducing itself automatically.
 
-Here, we finally return to the definition posed in the first section of this page. [[80 - 89 Power Resources/81 People/81.02 Clarissa Hayward\|81.02 Clarissa Hayward]] critiques the premise that power is something people "have." Everyone is subject to social boundaries that define what actions are possible. **That*** is what we need to be analyzing. It gives us a new frame to question individual actions, social structures, and their symbiosis.
+Here, we finally return to the definition posed in the first section of this page. [[80 - 89 Power Resources/81 People/81.02 Clarissa Hayward\|81.02 Clarissa Hayward]] rejects the premise that power is something people "have." Everyone is subject to social boundaries that define what actions are possible. **That*** is what we need to be analyzing. 
 
-### Uh... Ok, What Next
+### Uh... Ok, What Next?
+Well, I suppose I understand why people critique power theory lol. We went from a relatively straightforward concept to what seems open-ended, endless, and... yeah. I know!! Sorry!!!
 
+I promise it's for good reason, though. Power literacy gives us an incredibly useful lens to view the world. It's a new frame to understand individual actions, social structures, and the cyclical relationship between the two. Understanding deeper causes of inequity better equips us to end it.
 
+So! The next page you explore here on the PowerMyth Index doesn't really matter. *Follow your heart*. Either way, you'll learn something that can hopefully be applied to your own experiences.
 
+Here are some recommendations:
+- If you want to continue with THEORY, head to [[10 - 19 Power/11 Accumulative Types\|11 Accumulative Types]] or [[10 - 19 Power/12 Permeative Types\|12 Permeative Types]]
+- If you want the ACTION...
+	- [[20 - 29 Power Myths/20 Power Myths/20 Power Myths\|20 Power Myths]] and [[30 - 39 Power Weapons/31 Mythappropriation/31 Mythappropriation\|31 Mythappropriation]] are good starts to leveraging power
+	- [[50 - 59 Power Tools/50 Power Tools/50 Power Tools\|50 Power Tools]] outlines how power can be generated
+- If you want PEOPLE...
+	- Learn how different [[40 - 49 Power Actors/40 Power Actors/40 Power Actors\|40 Power Actors]] have unique relationships with power
+	- Learn how the so-called "powerless" actually became [[60 - 69 Power Builders/60 Power Builders/60 Power Builders\|60 Power Builders]]
 
-Power is everywhere, though certain [[40 - 49 Power Actors/40 Power Actors/40 Power Actors\|40 Power Actors]] have different relationships with it. 
-
-This wiki is based on a bunch of different theorists and was inspired by PowerCube.net. Read more about some of the [[80 - 89 Power Resources/80 Power Resources/80 Power Resources\|80 Power Resources]] that contributed to the information you see.
-
-This website is primarily a tool to help us identify and unmask power. It is currently a passion project of a busy doctoral student, so expect a lot of missing pieces... if this is helpful, I would eventually like to turn this into a crowdsourced effort, so if you have any suggestions or would like to collaborate, please email belmontindex@gmail.com. I hope you enjoy!
-
-*If you would like to see the full contents of this website, please visit the [[00 - 09 Website/00 Site Index\|00 Site Index]].* 
+This website is currently a passion project of a busy doctoral student, so expect a lot of missing pieces... If this is helpful, I would eventually like to turn this into a crowdsourced effort, so if you have any suggestions or would like to collaborate, please email belmontindex@gmail.com. I hope you enjoy!
 
 [^1]: Eyben et al., 2006

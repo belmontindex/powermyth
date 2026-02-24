@@ -13,8 +13,8 @@
 #### 10 - 19: Power
 ***What is Power?*** Explores different forms and interpretations of power.
 - [[10 - 19 Power/10 Power\|10 Power]]
-- [[10 - 19 Power/11 Accumulative Forms\|11 Accumulative Forms]]
-- [[10 - 19 Power/12 Permeative Forms\|12 Permeative Forms]]
+- [[10 - 19 Power/11 Accumulative Types\|11 Accumulative Types]]
+- [[10 - 19 Power/12 Permeative Types\|12 Permeative Types]]
 
 #### 20 - 29: Power Myths
 ***What stories perpetuate power?*** Explores recurring myths and their common uses.

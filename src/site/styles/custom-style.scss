@@ -3,6 +3,18 @@ body {
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
+    b, strong {
+        color: #F5EDF0;
+    }
+    
+    i, em {
+        color: #F5EDF0;
+    }
+
+    b i, strong em, i b, em strong {
+        color: #F5EDF0;
+    }
+    
     //  background-color: white;
     //  .content {
     //   font-size: 14px;

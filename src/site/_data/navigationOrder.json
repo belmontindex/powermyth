@@ -2,7 +2,6 @@
   "/": [
     "00. Sitemap",
     "01. Overview",
-    "05. FAQ",
     "10 - 19 Power",
     "20 - 29 Myths",
     "30 - 39 Power Weapons",
@@ -10,7 +9,8 @@
     "50 - 59 Power Tools",
     "60 - 69 Power Generators",
     "70 - 79 Cyberspace",
-    "80 - 89 Resources"
+    "80 - 89 Resources",
+    "90. FAQ"
   ],
   "/10 - 19 Power": [
     "10. Power",

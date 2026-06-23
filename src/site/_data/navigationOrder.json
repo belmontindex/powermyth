@@ -8,7 +8,6 @@
     "40 - 49 Power Conduits",
     "50 - 59 Power Tools",
     "60 - 69 Power Generators",
-    "70 - 79 Cyberspace",
     "80 - 89 Resources",
     "90. FAQ"
   ],
@@ -55,22 +54,22 @@
   ],
   "/30 - 39 Power Weapons": [
     "30. Power Weapons",
+    "31 Appropriation",
     "33. Categorization",
     "34. Normalization",
     "35. Concentration",
     "36. Deprivation",
-    "37. Repression",
-    "31 Appropriation"
+    "37. Repression"
   ],
   "/30 - 39 Power Weapons/31 Appropriation": [
     "31.00. Appropriation"
   ],
   "/40 - 49 Power Conduits": [
     "40. Power Conduits",
-    "42. Academia",
-    "44. Media",
     "41. Government",
-    "43. Religion"
+    "42. Academia",
+    "43. Religion",
+    "44. Media"
   ],
   "/50 - 59 Power Tools": [
     "50. Power Tools",
@@ -86,21 +85,13 @@
   "/60 - 69 Power Generators/61 Heterodoxy": [
     "61.01. Countercultures"
   ],
-  "/70 - 79 Cyberspace": [
-    "70. Cyberspace",
-    "74. Conduits_C"
-  ],
-  "/70 - 79 Cyberspace/74. Conduits_C": [
-    "74.01. Digital Platforms"
-  ],
   "/80 - 89 Resources": [
     "80 Resources",
     "81 People",
     "82 Concepts"
   ],
   "/80 - 89 Resources/80 Resources": [
-    "80.00. Bibliography",
-    "80.02. Counter_Cyberculture Essay"
+    "80.00. Bibliography"
   ],
   "/80 - 89 Resources/81 People": [
     "81.00. People",

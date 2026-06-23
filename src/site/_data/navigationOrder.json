@@ -23,6 +23,9 @@
   "/20 - 29 Myths": [
     "20. Myths",
     "21 The Villain",
+    "22 The Hero",
+    "23 The Setting",
+    "24 The Conflict",
     "25. Mythoscapes",
     "26 Self Mythoscapes",
     "27 Club Mythoscapes",
@@ -31,6 +34,15 @@
   "/20 - 29 Myths/21 The Villain": [
     "21.00. The Villain",
     "21.01. The Other"
+  ],
+  "/20 - 29 Myths/22 The Hero": [
+    "22.00. The Hero"
+  ],
+  "/20 - 29 Myths/23 The Setting": [
+    "23.00. The Setting"
+  ],
+  "/20 - 29 Myths/24 The Conflict": [
+    "24.00. The Conflict"
   ],
   "/20 - 29 Myths/26 Self Mythoscapes": [
     "26.02. Class"

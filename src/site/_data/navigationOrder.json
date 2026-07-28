@@ -8,8 +8,8 @@
     "40 - 49 Power Conduits",
     "50 - 59 Power Tools",
     "60 - 69 Power Generators",
-    "80 - 89 Resources",
-    "90. FAQ"
+    "90. FAQ",
+    "80 - 89 Bibliography"
   ],
   "/10 - 19 Power": [
     "10. Power",
@@ -54,15 +54,15 @@
   ],
   "/30 - 39 Power Weapons": [
     "30. Power Weapons",
-    "31 Appropriation",
+    "31 Mythdirection",
     "33. Categorization",
     "34. Normalization",
     "35. Concentration",
     "36. Deprivation",
     "37. Repression"
   ],
-  "/30 - 39 Power Weapons/31 Appropriation": [
-    "31.00. Appropriation"
+  "/30 - 39 Power Weapons/31 Mythdirection": [
+    "31.00. Mythdirection"
   ],
   "/40 - 49 Power Conduits": [
     "40. Power Conduits",
@@ -85,22 +85,12 @@
   "/60 - 69 Power Generators/61 Heterodoxy": [
     "61.01. Countercultures"
   ],
-  "/80 - 89 Resources": [
-    "80 Resources",
-    "81 People",
-    "82 Concepts"
+  "/80 - 89 Bibliography": [
+    "80 Resources"
   ],
-  "/80 - 89 Resources/80 Resources": [
-    "80.00. Bibliography",
+  "/80 - 89 Bibliography/80 Resources": [
     "80.04. To-Do List",
-    "80.05. Blueprint"
-  ],
-  "/80 - 89 Resources/81 People": [
-    "81.00. People",
-    "81.13. Stewart Brand",
-    "81.16. J. Milton Yinger"
-  ],
-  "/80 - 89 Resources/82 Concepts": [
-    "82.00. Concepts"
+    "80.05. Blueprint",
+    "80.07. Learning Plan"
   ]
 }

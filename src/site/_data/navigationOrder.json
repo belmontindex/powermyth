@@ -8,8 +8,8 @@
     "40 - 49 Power Conduits",
     "50 - 59 Power Tools",
     "60 - 69 Power Generators",
-    "90. FAQ",
-    "80 - 89 Bibliography"
+    "80 - 89 Bibliography",
+    "90. FAQ"
   ],
   "/10 - 19 Power": [
     "10. Power",
@@ -89,6 +89,7 @@
     "80 Resources"
   ],
   "/80 - 89 Bibliography/80 Resources": [
+    "80.00. Bibliography",
     "80.04. To-Do List",
     "80.05. Blueprint",
     "80.07. Learning Plan"

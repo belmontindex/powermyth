@@ -1,23 +1,22 @@
 {
   "/": [
-    "00. Sitemap",
-    "01. Overview",
+    "Sitemap",
+    "Introduction",
     "10 - 19 Power",
     "20 - 29 Myths",
-    "30 - 39 Power Weapons",
-    "40 - 49 Power Conduits",
-    "50 - 59 Power Tools",
+    "30 - 39 Realm Enforcers",
+    "40 - 49 Realm Expanders",
+    "50 - 59 Power Conduits",
     "60 - 69 Power Generators",
     "80 - 89 Bibliography",
     "90. FAQ"
   ],
   "/10 - 19 Power": [
     "10. Power",
-    "11. Realms of Freedom",
-    "12. Dominant Realm",
-    "13. Realm Enforcers",
-    "14. Power Capacitors",
-    "15. Boundary Negotiation"
+    "11. Realms",
+    "12. Capacitors",
+    "13. Reactors",
+    "14. Negotiation"
   ],
   "/20 - 29 Myths": [
     "20. Myths",
@@ -52,31 +51,29 @@
   "/20 - 29 Myths/28 World Mythoscapes": [
     "28.01. Knowledge"
   ],
-  "/30 - 39 Power Weapons": [
-    "30. Power Weapons",
-    "31 Mythdirection",
-    "33. Categorization",
-    "34. Normalization",
-    "35. Concentration",
-    "36. Deprivation",
-    "37. Repression"
+  "/30 - 39 Realm Enforcers": [
+    "30. Realm Enforcers",
+    "31. Monadus",
+    "32. Mithrot",
+    "33. Categorius",
+    "34. Normaliza",
+    "35. Hoarde",
+    "36. Deprivas",
+    "37. Repressio"
   ],
-  "/30 - 39 Power Weapons/31 Mythdirection": [
-    "31.00. Mythdirection"
+  "/40 - 49 Realm Expanders": [
+    "40. Realm Expanders",
+    "41. Education",
+    "42. Art",
+    "43. Community",
+    "44. Technology"
   ],
-  "/40 - 49 Power Conduits": [
-    "40. Power Conduits",
-    "41. Government",
-    "42. Academia",
-    "43. Religion",
-    "44. Media"
-  ],
-  "/50 - 59 Power Tools": [
-    "50. Power Tools",
-    "51. Education",
-    "52. Art",
-    "53. Community",
-    "54. Technology"
+  "/50 - 59 Power Conduits": [
+    "50. Power Conduits",
+    "51. Government",
+    "52. Academia",
+    "53. Religion",
+    "54. Media"
   ],
   "/60 - 69 Power Generators": [
     "60. Power Generators",
@@ -91,7 +88,6 @@
   "/80 - 89 Bibliography/80 Resources": [
     "80.00. Bibliography",
     "80.04. To-Do List",
-    "80.05. Blueprint",
-    "80.07. Learning Plan"
+    "80.05. Blueprint"
   ]
 }

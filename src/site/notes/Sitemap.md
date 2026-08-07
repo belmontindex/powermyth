@@ -17,8 +17,8 @@
 - [[10 - 19 Power/10. Power\|10. Power]]
 - [[10 - 19 Power/11. Realms\|11. Realms]]
 - [[10 - 19 Power/12. Capacitors\|12. Capacitors]]
-- [[10 - 19 Power/13. Reactors\|13. Reactors]]
-- [[10 - 19 Power/14. Negotiators\|14. Negotiators]]
+- [[10 - 19 Power/13. Negotiators\|13. Negotiators]]
+- [[10 - 19 Power/14. Reactors\|14. Reactors]]
 
 #### 20 - 29: Myths
 ***The stories that shape beliefs.***

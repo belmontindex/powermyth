@@ -15,8 +15,8 @@
     "10. Power",
     "11. Realms",
     "12. Capacitors",
-    "13. Reactors",
-    "14. Negotiation"
+    "13. Negotiators",
+    "14. Reactors"
   ],
   "/20 - 29 Myths": [
     "20. Myths",
@@ -83,11 +83,17 @@
     "61.01. Countercultures"
   ],
   "/80 - 89 Bibliography": [
-    "80 Resources"
+    "80 Resources",
+    "81. Concepts",
+    "82 Discourses",
+    "83. People",
+    "84. Books"
   ],
   "/80 - 89 Bibliography/80 Resources": [
-    "80.00. Bibliography",
-    "80.04. To-Do List",
+    "80. Bibliography",
     "80.05. Blueprint"
+  ],
+  "/80 - 89 Bibliography/82 Discourses": [
+    "82. Discourses"
   ]
 }

@@ -10,7 +10,8 @@
 **[Dillon Belmont Homepage](https://dillonbelmont.com/)**
 
 [[Sitemap\|Sitemap]]
-[[Introduction\|Introduction]] 
+[[Introduction\|Introduction]]
+[[PowerMyth Analysis\|PowerMyth Analysis]]
 
 #### 10 - 19: Power
 ***The source of what is possible.***
@@ -97,12 +98,12 @@
 - [[70 - 79 Cyberspace/71 Power_C/71.00. Power_C\|71.00. Power_C]]
 	- [[70 - 79 Cyberspace/71 Power_C/71.01. Realms_C\|71.01. Realms_C]]
 	- [[70 - 79 Cyberspace/71 Power_C/71.02. Capacitors_C\|71.02. Capacitors_C]]
-	- [[70 - 79 Cyberspace/71 Power_C/71.03. Reactors_C\|71.03. Reactors_C]]
+	- [[70 - 79 Cyberspace/71 Power_C/71.04. Reactors_C\|71.04. Reactors_C]]
 - [[70 - 79 Cyberspace/72 Myths_C/72.00. Digital Myths\|72.00. Digital Myths]]
 	- [[70 - 79 Cyberspace/72 Myths_C/72.01. Digital Mythoscapes\|72.01. Digital Mythoscapes]]
 - [[70 - 79 Cyberspace/73 Enforcers_C/73.00. Enforcers_C\|73.00. Enforcers_C]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.01. Mythdirection\|73.01. Mythdirection]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.02. Echocultures\|73.02. Echocultures]]
+	- [[30 - 39 Realm Enforcers/32.01. Mythdirection\|32.01. Mythdirection]]
+	- [[73.02. Echocultures\|73.02. Echocultures]]
 	- [[70 - 79 Cyberspace/73 Enforcers_C/73.03. Surveillance\|73.03. Surveillance]]
 	- [[70 - 79 Cyberspace/73 Enforcers_C/73.04. Compliance\|73.04. Compliance]]
 	- [[70 - 79 Cyberspace/73 Enforcers_C/73.05. Prevalence\|73.05. Prevalence]]
@@ -127,14 +128,13 @@
 
 #### 80 - 89: Resources
 ***Climb deeper into the well...*** 
-- [[80 - 89 Bibliography/80 Resources/80.00. Bibliography\|80.00. Bibliography]]
-- [[80 - 89 Bibliography/81 Fields/81.00. Fields\|81.00. Fields]]
-- [[80 - 89 Bibliography/82 Discourses/82.00. Discourses\|82.00. Discourses]]
+- [[80 - 89 Bibliography/80 Resources/80. Bibliography\|80. Bibliography]]
+- [[80 - 89 Bibliography/81. Concepts\|81. Concepts]]
+- [[80 - 89 Bibliography/82 Discourses/82. Discourses\|82. Discourses]]
 	- [[80 - 89 Bibliography/82 Discourses/82.01. Power Discourse\|82.01. Power Discourse]]
 	- [[80 - 89 Bibliography/82 Discourses/82.02. Culture Discourse\|82.02. Culture Discourse]]
 	- [[80 - 89 Bibliography/82 Discourses/82.03. Knowledge Discourse\|82.03. Knowledge Discourse]]
-- [[80 - 89 Bibliography/83 People/83.00. People\|83.00. People]]
-- [[80 - 89 Bibliography/84 Concepts/84.00. Concepts\|84.00. Concepts]]
-- [[80 - 89 Bibliography/85 Books/85.00. Books\|85.00. Books]]
+- [[80 - 89 Bibliography/83. People\|83. People]]
+- [[80 - 89 Bibliography/84. Books\|84. Books]]
 
 #### [[90. FAQ\|90. FAQ]]

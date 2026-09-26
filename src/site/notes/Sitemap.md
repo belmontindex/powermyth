@@ -11,7 +11,7 @@
 
 [[Sitemap\|Sitemap]]
 [[Introduction\|Introduction]]
-[[PowerMyth Analysis\|PowerMyth Analysis]]
+[[Pleromic Analysis\|Pleromic Analysis]]
 
 #### 10 - 19: Power
 ***The source of what is possible.***
@@ -58,9 +58,8 @@
 - [[30 - 39 Realm Enforcers/32. Mithrot\|32. Mithrot]]
 - [[30 - 39 Realm Enforcers/33. Categorius\|33. Categorius]]
 - [[30 - 39 Realm Enforcers/34. Normaliza\|34. Normaliza]]
-- [[30 - 39 Realm Enforcers/35. Hoarde\|35. Hoarde]]
-- [[30 - 39 Realm Enforcers/36. Deprivas\|36. Deprivas]]
-- [[30 - 39 Realm Enforcers/37. Repressio\|37. Repressio]]
+- [[30 - 39 Realm Enforcers/35. Distributon\|35. Distributon]]
+- [[30 - 39 Realm Enforcers/36. Repressio\|36. Repressio]]
 
 #### 40 - 49: Realm Expanders
 ***That which liberates.***

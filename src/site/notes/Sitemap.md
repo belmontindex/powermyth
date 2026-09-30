@@ -11,25 +11,26 @@
 
 [[Sitemap\|Sitemap]]
 [[Introduction\|Introduction]]
+[[Pleromism\|Pleromism]]
 [[Pleromic Analysis\|Pleromic Analysis]]
 
 #### 10 - 19: Power
-***The source of what is possible.***
+***That which shapes possibility.***
 - [[10 - 19 Power/10. Power\|10. Power]]
-- [[10 - 19 Power/11. Realms\|11. Realms]]
-- [[10 - 19 Power/12. Capacitors\|12. Capacitors]]
-- [[10 - 19 Power/13. Negotiators\|13. Negotiators]]
-- [[10 - 19 Power/14. Reactors\|14. Reactors]]
+- [[10 - 19 Power/11. Capacitors\|11. Capacitors]]: accumulative capital
+- [[10 - 19 Power/12. Negotiators\|12. Negotiators]]: the active forces
+- [[10 - 19 Power/13. Emitters\|13. Emitters]]: the passive reproduction
+- [[10 - 19 Power/14. Conduits\|14. Conduits]]: the vessels of Power
 
 #### 20 - 29: Myths
-***The stories that shape beliefs.***
-- [[20 - 29 Myths/20. Myths\|20. Myths]]
+***That which shapes belief.***
+- [[20 - 29 Myths/20. Myths\|20. Myths]]: the building blocks of mythoscapes
 	- [[20 - 29 Myths/21 The Villain/21.00. The Villain\|21.00. The Villain]]
 		- [[20 - 29 Myths/21 The Villain/21.01. The Other\|21.01. The Other]]
 	- [[20 - 29 Myths/22 The Hero/22.00. The Hero\|22.00. The Hero]]
 	- [[20 - 29 Myths/23 The Setting/23.00. The Setting\|23.00. The Setting]]
 	- [[20 - 29 Myths/24 The Conflict/24.00. The Conflict\|24.00. The Conflict]]
-- [[20 - 29 Myths/25. Mythoscapes\|25. Mythoscapes]]
+- [[20 - 29 Myths/25. Mythoscapes\|25. Mythoscapes]]: the fields of identity
 	- 26. Self Mythoscapes
 		- [[20 - 29 Myths/26 Self Mythoscapes/26.01. Race\|26.01. Race]]
 		- [[20 - 29 Myths/26 Self Mythoscapes/26.02. Class\|26.02. Class]]
@@ -51,32 +52,25 @@
 		- [[20 - 29 Myths/28 World Mythoscapes/28.05. Reality\|28.05. Reality]]
 		- *More to come...*
 
-#### 30 - 39: Realm Enforcers
-***That which dominates.*** 
-- [[30 - 39 Realm Enforcers/30. Realm Enforcers\|30. Realm Enforcers]]
-- [[30 - 39 Realm Enforcers/31. Monadus\|31. Monadus]]
-- [[30 - 39 Realm Enforcers/32. Mithrot\|32. Mithrot]]
-- [[30 - 39 Realm Enforcers/33. Categorius\|33. Categorius]]
-- [[30 - 39 Realm Enforcers/34. Normaliza\|34. Normaliza]]
-- [[30 - 39 Realm Enforcers/35. Distributon\|35. Distributon]]
-- [[30 - 39 Realm Enforcers/36. Repressio\|36. Repressio]]
+#### 30 - 39: Realms
+***The boundaries of possibility.***
+- [[30 - 39 Realms/30. Realms\|30. Realms]]
+- [[30 - 39 Realms/31. Collectives\|31. Collectives]]
+- [[30 - 39 Realms/32. Societies\|32. Societies]]
 
-#### 40 - 49: Realm Expanders
+#### 40 - 49: Realm Enforcers
+***That which stabilizes.*** 
+- [[40 - 49 Realm Enforcers/40. Realm Enforcers\|40. Realm Enforcers]]
+- [[40 - 49 Realm Enforcers/41. Monadus\|41. Monadus]]
+- [[40 - 49 Realm Enforcers/42. Mithrot\|42. Mithrot]]
+- [[40 - 49 Realm Enforcers/43. Categorius\|43. Categorius]]
+- [[40 - 49 Realm Enforcers/44. Normaliza\|44. Normaliza]]
+- [[40 - 49 Realm Enforcers/45. Distributon\|45. Distributon]]
+- [[40 - 49 Realm Enforcers/46. Repressio\|46. Repressio]]
+
+#### 50 - 59: Realm Expanders
 ***That which liberates.***
-- [[40 - 49 Realm Expanders/40. Realm Expanders\|40. Realm Expanders]]
-- [[40 - 49 Realm Expanders/41. Education\|41. Education]]
-- [[40 - 49 Realm Expanders/42. Art\|42. Art]]
-- [[40 - 49 Realm Expanders/43. Community\|43. Community]]
-- [[40 - 49 Realm Expanders/44. Technology\|44. Technology]]
-- *More to come...*
-
-#### 50 - 59: Power Conduits
-***The vessels of Power.***
-- [[50 - 59 Power Conduits/50. Power Conduits\|50. Power Conduits]]
-- [[50 - 59 Power Conduits/51. Government\|51. Government]]
-- [[50 - 59 Power Conduits/52. Academia\|52. Academia]]
-- [[50 - 59 Power Conduits/53. Religion\|53. Religion]]
-- [[50 - 59 Power Conduits/54. Media\|54. Media]]
+- [[50 - 59 Realm Expanders/50. Realm Expanders\|50. Realm Expanders]]
 - *More to come...*
 
 #### 60 - 69: Power Generators
@@ -101,7 +95,7 @@
 - [[70 - 79 Cyberspace/72 Myths_C/72.00. Digital Myths\|72.00. Digital Myths]]
 	- [[70 - 79 Cyberspace/72 Myths_C/72.01. Digital Mythoscapes\|72.01. Digital Mythoscapes]]
 - [[70 - 79 Cyberspace/73 Enforcers_C/73.00. Enforcers_C\|73.00. Enforcers_C]]
-	- [[30 - 39 Realm Enforcers/32.01. Mythdirection\|32.01. Mythdirection]]
+	- [[40 - 49 Realm Enforcers/42.1. Mythdirection\|42.1. Mythdirection]]
 	- [[73.02. Echocultures\|73.02. Echocultures]]
 	- [[70 - 79 Cyberspace/73 Enforcers_C/73.03. Surveillance\|73.03. Surveillance]]
 	- [[70 - 79 Cyberspace/73 Enforcers_C/73.04. Compliance\|73.04. Compliance]]

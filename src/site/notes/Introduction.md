@@ -19,11 +19,11 @@ Much of our knowledge has been siloed across specialty and identity in a way tha
 Every page on the Index is written through its relation to [[10 - 19 Power/10. Power\|Power]], so it is highly recommended to read that section before any others. Regardless, here is a basic summary of key concepts.
 
 **Power is much more than a means for people to dominate each other. Instead...**
-- Power is a ubiquitous force that determines the boundaries of what every person can or cannot do ([[10 - 19 Power/11. Realms\|Realms]]), both individually and as part of a collective;
-- Those who accumulate certain properties, such as wealth and status ([[10 - 19 Power/12. Capacitors\|Capacitors]]), have a greater potential to [[10 - 19 Power/13. Negotiators\|negotiate]] these boundaries;
-- Such influence is baked into the social stabilizers of institutions and culture ([[10 - 19 Power/14. Reactors\|Reactors]]), which can serve to maintain the status quo and reinforce exclusion or foster justice;
+- Power is a ubiquitous force that determines the boundaries of what every person can or cannot do ([[30 - 39 Realms/30. Realms\|Realms]]), both individually and as part of a collective;
+- Those who accumulate certain properties, such as wealth and status ([[10 - 19 Power/11. Capacitors\|Capacitors]]), have a greater potential to [[10 - 19 Power/12. Negotiators\|negotiate]] these boundaries;
+- Such influence is baked into the social stabilizers of institutions and culture ([[10 - 19 Power/13. Emitters\|Reactors]]), which can serve to maintain the status quo and reinforce exclusion or foster justice;
 
-This Index attempts to document patterns of action that are commonly used to restrict freedoms (embodied through the [[30 - 39 Realm Enforcers/30. Realm Enforcers\|Realm Enforcers]]) and expand them ([[40 - 49 Realm Expanders/40. Realm Expanders\|Realm Expanders]]), even though the distinction can be fuzzy. The Index also includes two sections on actors: [[50 - 59 Power Conduits/50. Power Conduits\|Power Conduits]] are entities that operate as vessels for Power in unique ways, while [[60 - 69 Power Generators/60. Power Generators\|Power Generators]] are those who mostly exist outside society's dominant Realm. All four sections help us understand the various ways Power can manifest.
+This Index attempts to document patterns of action that are commonly used to restrict freedoms (embodied through the [[40 - 49 Realm Enforcers/40. Realm Enforcers\|Realm Enforcers]]) and expand them ([[50 - 59 Realm Expanders/50. Realm Expanders\|Realm Expanders]]), even though the distinction can be fuzzy. The Index also includes two sections on actors: [[10 - 19 Power/14. Conduits\|Power Conduits]] are entities that operate as vessels for Power in unique ways, while [[60 - 69 Power Generators/60. Power Generators\|Power Generators]] are those who mostly exist outside society's dominant Realm. All four sections help us understand the various ways Power can manifest.
 
 Oh, and then there's [[70 - 79 Cyberspace/70. Cyberspace\|Cyberspace]]... Well, stay tuned for that section.
 
@@ -31,7 +31,7 @@ Oh, and then there's [[70 - 79 Cyberspace/70. Cyberspace\|Cyberspace]]... Well, 
 
 ## Epic Disclaimers
 
-I am not a researcher living in a bubble of pure science and reason, nor is this all intended to be some objectively correct lighthouse for the world's problems. Just because I'm compiling a bunch of perspectives doesn't mean I'm absent one of my own, which also comes with limitations and blind spots. All this to say, **expect contradictions!!** I will criticize [[30 - 39 Realm Enforcers/33. Categorius\|Categorization]] despite doing just that, I will question [[50 - 59 Power Conduits/52. Academia\|Academia]] while being part of it, and so on. Maybe two things can be true at once, maybe there's no such thing as truth, idk. But just keep that in mind I guess?
+I am not a researcher living in a bubble of pure science and reason, nor is this all intended to be some objectively correct lighthouse for the world's problems. Just because I'm compiling a bunch of perspectives doesn't mean I'm absent one of my own, which also comes with limitations and blind spots. All this to say, **expect contradictions!!** I will criticize [[40 - 49 Realm Enforcers/43. Categorius\|Categorization]] despite doing just that, I will question [[52. Academia\|Academia]] while being part of it, and so on. Maybe two things can be true at once, maybe there's no such thing as truth, idk. But just keep that in mind I guess?
 
 This Index will be **WEIRD** AND **MESSY** FOREVER!!! :O Ideas will keep evolving over time. Expect some pages to be delicately crafted essays while others will just be reference lists for now. Either way, my hope is that each page offers something you can chew on to help reexamine your own experiences.
 

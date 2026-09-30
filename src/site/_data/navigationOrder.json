@@ -2,21 +2,22 @@
   "/": [
     "Sitemap",
     "Introduction",
+    "Pleromism",
     "10 - 19 Power",
     "20 - 29 Myths",
-    "30 - 39 Realm Enforcers",
-    "40 - 49 Realm Expanders",
-    "50 - 59 Power Conduits",
+    "30 - 39 Realms",
+    "40 - 49 Realm Enforcers",
+    "50 - 59 Realm Expanders",
     "60 - 69 Power Generators",
     "80 - 89 Bibliography",
     "90. FAQ"
   ],
   "/10 - 19 Power": [
     "10. Power",
-    "11. Realms",
-    "12. Capacitors",
-    "13. Negotiators",
-    "14. Reactors"
+    "11. Capacitors",
+    "12. Negotiators",
+    "13. Emitters",
+    "14. Conduits"
   ],
   "/20 - 29 Myths": [
     "20. Myths",
@@ -30,8 +31,7 @@
     "28 World Mythoscapes"
   ],
   "/20 - 29 Myths/21 The Villain": [
-    "21.00. The Villain",
-    "21.01. The Other"
+    "21.00. The Villain"
   ],
   "/20 - 29 Myths/22 The Hero": [
     "22.00. The Hero"
@@ -51,29 +51,20 @@
   "/20 - 29 Myths/28 World Mythoscapes": [
     "28.01. Knowledge"
   ],
-  "/30 - 39 Realm Enforcers": [
-    "30. Realm Enforcers",
-    "31. Monadus",
-    "32. Mithrot",
-    "33. Categorius",
-    "34. Normaliza",
-    "35. Hoarde",
-    "36. Deprivas",
-    "37. Repressio"
+  "/30 - 39 Realms": [
+    "30. Realms"
   ],
-  "/40 - 49 Realm Expanders": [
-    "40. Realm Expanders",
-    "41. Education",
-    "42. Art",
-    "43. Community",
-    "44. Technology"
+  "/40 - 49 Realm Enforcers": [
+    "40. Realm Enforcers",
+    "41. Monadus",
+    "42. Mithrot",
+    "43. Categorius",
+    "44. Normaliza",
+    "45. Distributon",
+    "46. Repressio"
   ],
-  "/50 - 59 Power Conduits": [
-    "50. Power Conduits",
-    "51. Government",
-    "52. Academia",
-    "53. Religion",
-    "54. Media"
+  "/50 - 59 Realm Expanders": [
+    "50. Realm Expanders"
   ],
   "/60 - 69 Power Generators": [
     "60. Power Generators",

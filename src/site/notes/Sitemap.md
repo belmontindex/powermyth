@@ -55,8 +55,8 @@
 #### 30 - 39: Realms
 ***The boundaries of possibility.***
 - [[30 - 39 Realms/30. Realms\|30. Realms]]
-- [[30 - 39 Realms/31. Collectives\|31. Collectives]]
-- [[30 - 39 Realms/32. Societies\|32. Societies]]
+- [[30 - 39 Realms/31. Collective Realms\|31. Collective Realms]]
+- [[30 - 39 Realms/32. Dominant Realms\|32. Dominant Realms]]
 
 #### 40 - 49: Realm Enforcers
 ***That which stabilizes.*** 

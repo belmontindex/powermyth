@@ -25,31 +25,30 @@
 #### 20 - 29: Myths
 ***That which shapes belief.***
 - [[20 - 29 Myths/20. Myths\|20. Myths]]: the building blocks of mythoscapes
-	- [[20 - 29 Myths/21 The Villain/21.00. The Villain\|21.00. The Villain]]
-		- [[20 - 29 Myths/21 The Villain/21.01. The Other\|21.01. The Other]]
-	- [[20 - 29 Myths/22 The Hero/22.00. The Hero\|22.00. The Hero]]
-	- [[20 - 29 Myths/23 The Setting/23.00. The Setting\|23.00. The Setting]]
-	- [[20 - 29 Myths/24 The Conflict/24.00. The Conflict\|24.00. The Conflict]]
+	- [[20 - 29 Myths/21 The Villain/21. The Villain\|21. The Villain]]
+	- [[20 - 29 Myths/22 The Hero/22. The Hero\|22. The Hero]]
+	- [[20 - 29 Myths/23 The Setting/23. The Setting\|23. The Setting]]
+	- [[20 - 29 Myths/24 The Conflict/24. The Conflict\|24. The Conflict]]
 - [[20 - 29 Myths/25. Mythoscapes\|25. Mythoscapes]]: the fields of identity
-	- 26. Self Mythoscapes
-		- [[20 - 29 Myths/26 Self Mythoscapes/26.01. Race\|26.01. Race]]
-		- [[20 - 29 Myths/26 Self Mythoscapes/26.02. Class\|26.02. Class]]
-		- [[20 - 29 Myths/26 Self Mythoscapes/26.03. Gender\|26.03. Gender]]
-		- [[20 - 29 Myths/26 Self Mythoscapes/26.04. Age\|26.04. Age]]
-		- [[20 - 29 Myths/26 Self Mythoscapes/26.05. Sexuality\|26.05. Sexuality]]
+	- [[20 - 29 Myths/26 Self Mythoscapes/26. Self\|26. Self]]
+		- [[20 - 29 Myths/26 Self Mythoscapes/26.1. Race\|26.1. Race]]
+		- [[20 - 29 Myths/26 Self Mythoscapes/26.2. Class\|26.2. Class]]
+		- [[20 - 29 Myths/26 Self Mythoscapes/26.3. Gender\|26.3. Gender]]
+		- [[20 - 29 Myths/26 Self Mythoscapes/26.4. Age\|26.4. Age]]
+		- [[20 - 29 Myths/26 Self Mythoscapes/26.5. Sexuality\|26.5. Sexuality]]
 		- *More to come...*
-	- 27. Club Mythoscapes
-		- [[20 - 29 Myths/27 Club Mythoscapes/27.01. Capitalist\|27.01. Capitalist]]
-		- [[20 - 29 Myths/27 Club Mythoscapes/27.02. American\|27.02. American]]
-		- [[20 - 29 Myths/27 Club Mythoscapes/27.03. Political\|27.03. Political]]
-		- [[20 - 29 Myths/27 Club Mythoscapes/27.04. Religious\|27.04. Religious]]
+	- [[20 - 29 Myths/27 Club Mythoscapes/27. Club\|27. Club]]
+		- [[20 - 29 Myths/27 Club Mythoscapes/27.1. Capitalist\|27.1. Capitalist]]
+		- [[20 - 29 Myths/27 Club Mythoscapes/27.2. American\|27.2. American]]
+		- [[20 - 29 Myths/27 Club Mythoscapes/27.3. Political\|27.3. Political]]
+		- [[20 - 29 Myths/27 Club Mythoscapes/27.4. Religious\|27.4. Religious]]
 		- *More to come...*
-	- 28. World Mythoscapes
-		- [[20 - 29 Myths/28 World Mythoscapes/28.01. Knowledge\|28.01. Knowledge]]
-		- [[20 - 29 Myths/28 World Mythoscapes/28.02. Personhood\|28.02. Personhood]]
-		- [[20 - 29 Myths/28 World Mythoscapes/28.03. Connection\|28.03. Connection]]
-		- [[20 - 29 Myths/28 World Mythoscapes/28.04. Celebrity\|28.04. Celebrity]]
-		- [[20 - 29 Myths/28 World Mythoscapes/28.05. Reality\|28.05. Reality]]
+	- [[20 - 29 Myths/28 World Mythoscapes/28. World\|28. World]]
+		- [[20 - 29 Myths/28 World Mythoscapes/28.1. Knowledge\|28.1. Knowledge]]
+		- [[20 - 29 Myths/28 World Mythoscapes/28.2. Personhood\|28.2. Personhood]]
+		- [[20 - 29 Myths/28 World Mythoscapes/28.3. Connection\|28.3. Connection]]
+		- [[20 - 29 Myths/28 World Mythoscapes/28.4. Celebrity\|28.4. Celebrity]]
+		- [[20 - 29 Myths/28 World Mythoscapes/28.5. Reality\|28.5. Reality]]
 		- *More to come...*
 
 #### 30 - 39: Realms
@@ -76,48 +75,53 @@
 #### 60 - 69: Power Generators
 ***The outsiders who found a way.***
 - [[60 - 69 Power Generators/60. Power Generators\|60. Power Generators]]
-- [[60 - 69 Power Generators/61 Heterodoxy/61.00. Heterodoxy\|61.00. Heterodoxy]]
-	- [[60 - 69 Power Generators/61 Heterodoxy/61.01. Countercultures\|61.01. Countercultures]]
+- [[60 - 69 Power Generators/61 Heterodoxy/61. Heterodoxy\|61. Heterodoxy]]
+	- [[60 - 69 Power Generators/61 Heterodoxy/61.1. Countercultures\|61.1. Countercultures]]
 	- *More to come...*
-- [[60 - 69 Power Generators/62 Race/62.00. Race\|62.00. Race]]
-- [[60 - 69 Power Generators/63 Nation/63.00. Nation\|63.00. Nation]]
-- [[60 - 69 Power Generators/64 Gender/64.00. Gender\|64.00. Gender]]
-- [[60 - 69 Power Generators/65 Labor/65.00. Labor\|65.00. Labor]]
+- [[60 - 69 Power Generators/62 Race/62. Race\|62. Race]]
+- [[60 - 69 Power Generators/63 Nation/63. Nation\|63. Nation]]
+- [[60 - 69 Power Generators/64 Gender/64. Gender\|64. Gender]]
+- [[60 - 69 Power Generators/65 Labor/65. Labor\|65. Labor]]
 - *More to come...*
 
 #### 70 - 79: Cyberspace
 ***The new world.***
 - [[70 - 79 Cyberspace/70. Cyberspace\|70. Cyberspace]]
-- [[70 - 79 Cyberspace/71 Power_C/71.00. Power_C\|71.00. Power_C]]
-	- [[70 - 79 Cyberspace/71 Power_C/71.01. Realms_C\|71.01. Realms_C]]
-	- [[70 - 79 Cyberspace/71 Power_C/71.02. Capacitors_C\|71.02. Capacitors_C]]
-	- [[70 - 79 Cyberspace/71 Power_C/71.04. Reactors_C\|71.04. Reactors_C]]
-- [[70 - 79 Cyberspace/72 Myths_C/72.00. Digital Myths\|72.00. Digital Myths]]
-	- [[70 - 79 Cyberspace/72 Myths_C/72.01. Digital Mythoscapes\|72.01. Digital Mythoscapes]]
-- [[70 - 79 Cyberspace/73 Enforcers_C/73.00. Enforcers_C\|73.00. Enforcers_C]]
-	- [[40 - 49 Realm Enforcers/42.1. Mythdirection\|42.1. Mythdirection]]
-	- [[73.02. Echocultures\|73.02. Echocultures]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.03. Surveillance\|73.03. Surveillance]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.04. Compliance\|73.04. Compliance]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.05. Prevalence\|73.05. Prevalence]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.06. Reliance\|73.06. Reliance]]
-	- [[70 - 79 Cyberspace/73 Enforcers_C/73.07. Influence\|73.07. Influence]]
-- [[70 - 79 Cyberspace/74 Expanders_C/74.00. Expanders_C\|74.00. Expanders_C]]
-	- [[70 - 79 Cyberspace/74 Expanders_C/74.01. Exploration\|74.01. Exploration]]
-	- [[70 - 79 Cyberspace/74 Expanders_C/74.02. Expression\|74.02. Expression]]
-	- [[70 - 79 Cyberspace/74 Expanders_C/74.03. Access\|74.03. Access]]
-	- [[70 - 79 Cyberspace/74 Expanders_C/74.04. Innovation\|74.04. Innovation]]
+- [[70 - 79 Cyberspace/70a. Cyber Power\|70a. Cyber Power]]
+- [[70 - 79 Cyberspace/70b. Digital Mythoscape\|70b. Digital Mythoscape]]
+- [[70 - 79 Cyberspace/70c. Digital Realm\|70c. Digital Realm]]
+- [[70 - 79 Cyberspace/71 Capacitors_C/71. Cyber Capacitors\|71. Cyber Capacitors]]
+- [[70 - 79 Cyberspace/72 Emitters_C/72. Cyber Emitters\|72. Cyber Emitters]]
+	- [[70 - 79 Cyberspace/72 Emitters_C/72.1. Copyright\|72.1. Copyright]]
 	- *More to come...*
-- [[70 - 79 Cyberspace/75 Conduits_C/74.00. Conduits_C\|74.00. Conduits_C]]
-	- [[70 - 79 Cyberspace/75 Conduits_C/74.01. Platforms\|74.01. Platforms]]
-	- [[70 - 79 Cyberspace/75 Conduits_C/74.02. Creators\|74.02. Creators]]
-	- [[70 - 79 Cyberspace/75 Conduits_C/74.03. Forums\|74.03. Forums]]
-	- [[70 - 79 Cyberspace/75 Conduits_C/74.04. Algorithms\|74.04. Algorithms]]
-- [[70 - 79 Cyberspace/76 Generators_C/76.00. Generators_C\|76.00. Generators_C]]
-	- [[70 - 79 Cyberspace/76 Generators_C/76.01. Heterodoxy_C\|76.01. Heterodoxy_C]]
-	- [[70 - 79 Cyberspace/76 Generators_C/76.02. Web Revival\|76.02. Web Revival]]
-	- [[70 - 79 Cyberspace/76 Generators_C/76.03. Hackers\|76.03. Hackers]]
+- [[70 - 79 Cyberspace/73 Conduits_C/73. Cyber Conduits\|73. Cyber Conduits]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.1. Platforms\|73.1. Platforms]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.2. Creators\|73.2. Creators]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.3. Forums\|73.3. Forums]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.4. Algorithms\|73.4. Algorithms]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.5. Hardware\|73.5. Hardware]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.6. Software\|73.6. Software]]
+	- [[70 - 79 Cyberspace/73 Conduits_C/73.7. LLMs\|73.7. LLMs]]
 	- *More to come...*
+- [[70 - 79 Cyberspace/74 Enforcers_C/74. Cyber Enforcers\|74. Cyber Enforcers]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.1. Ranking\|74.1. Ranking]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.2. Dissonance\|74.2. Dissonance]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.3. Surveillance\|74.3. Surveillance]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.4. Compliance\|74.4. Compliance]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.5. Reliance\|74.5. Reliance]]
+	- [[70 - 79 Cyberspace/74 Enforcers_C/74.6. Influence\|74.6. Influence]]
+- [[70 - 79 Cyberspace/75 Expanders_C/75. Cyber Expanders\|75. Cyber Expanders]]
+	- [[70 - 79 Cyberspace/75 Expanders_C/75.1. Exploration\|75.1. Exploration]]
+	- [[70 - 79 Cyberspace/75 Expanders_C/75.2. Expression\|75.2. Expression]]
+	- [[70 - 79 Cyberspace/75 Expanders_C/75.3. Access\|75.3. Access]]
+	- [[70 - 79 Cyberspace/75 Expanders_C/75.4. Innovation\|75.4. Innovation]]
+	- *More to come...*
+- [[70 - 79 Cyberspace/76 Generators_C/76. Cyber Generators\|76. Cyber Generators]]
+	- [[70 - 79 Cyberspace/76 Generators_C/76.1. Cyber Heterodoxy\|76.1. Cyber Heterodoxy]]
+	- [[70 - 79 Cyberspace/76 Generators_C/76.2. Web Revival\|76.2. Web Revival]]
+	- [[70 - 79 Cyberspace/76 Generators_C/76.3. Hackers\|76.3. Hackers]]
+	- *More to come...*
+- [[70 - 79 Cyberspace/79 Resources_C/79. Cyber Resources\|79. Cyber Resources]]
 
 #### 80 - 89: Resources
 ***Climb deeper into the well...*** 

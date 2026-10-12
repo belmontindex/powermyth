@@ -37,7 +37,7 @@ The boundaries of possibility shaped by Power ultimately form each person's **[[
 
 However, it would be exceedingly rare for any two Realms to be exactly alike. Though two individuals may share the same government, laws might apply to them differently. They may share a national culture while still having different religious beliefs, access to Capacitors, life experiences, and so on.
 
-![individual realms sometimes overlap](https://dillonbelmont.com/03powermyth-assets/realmsmany.gif)
+![individual realms are diverse](https://dillonbelmont.com/03powermyth-assets/realmsmany.gif)
 
 Those variations are embodied through fields of knowledge and behaviors called **[[20 - 29 Myths/25. Mythoscapes\|Mythoscapes]]**. Mythoscapes are relationally defined and operate at the following levels:
 - **[[20 - 29 Myths/26 Self Mythoscapes/26. Self\|Self]]**: characteristics and identity, such as race, class, gender, or age.
@@ -50,7 +50,7 @@ Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|My
 
 The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/31. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
 
-(VIDEO HERE)
+![collective realms exclude necessarily](https://dillonbelmont.com/03powermyth-assets/collective2.gif)
 
 When a collective forges a new Realm, the contradictions within result in some inherent instability. Excluded components have incentive to expand the boundaries, but constant negotiations threaten the Realm's composition. Therefore, taken-for-granted social forces known as **[[40 - 49 Realm Enforcers/40. Realm Enforcers\|Realm Enforcers]]** prevent significant change from occurring:
 - **[[40 - 49 Realm Enforcers/41. Monadus\|Monadus]], the leader** who defines the dominant position.

@@ -5,6 +5,8 @@
 >[!faq] **Mysteries Yet Uncovered...**
 >**Plemorism** is the theoretical framework described throughout the PowerMyth Index. Come back very soon for more...
 
+(==INTRO HERE==)
+
 # 1. POWER
 
 Our lives are bounded by **[[10 - 19 Power/10. Power\|Power]]**, the network of social boundaries that shapes what is possible. To know Power is to understand where and how it manifests. 
@@ -35,7 +37,7 @@ The boundaries of possibility shaped by Power ultimately form each person's **[[
 
 However, it would be exceedingly rare for any two Realms to be exactly alike. Though two individuals may share the same government, laws might apply to them differently. They may share a national culture while still having different religious beliefs, access to Capacitors, life experiences, and so on.
 
-(VIDEO HERE)
+![individual realms sometimes overlap](https://dillonbelmont.com/03powermyth-assets/realmsmany.gif)
 
 Those variations are embodied through fields of knowledge and behaviors called **[[20 - 29 Myths/25. Mythoscapes\|Mythoscapes]]**. Mythoscapes are relationally defined and operate at the following levels:
 - **[[20 - 29 Myths/26 Self Mythoscapes/26. Self\|Self]]**: characteristics and identity, such as race, class, gender, or age.
@@ -44,7 +46,7 @@ Those variations are embodied through fields of knowledge and behaviors called *
 
 Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|Myths]]** that help its subscribers rationalize the world around them, each with unique stories of who should be disliked ([[20 - 29 Myths/21 The Villain/21. The Villain\|The Villain]]) and who should be rooted for ([[20 - 29 Myths/22 The Hero/22. The Hero\|The Hero]]). They also set the stage ([[20 - 29 Myths/23 The Setting/23. The Setting\|The Setting]]) and describe what the heroes are up against ([[20 - 29 Myths/24 The Conflict/24. The Conflict\|The Conflict]]).
 
-(2:1 image of various art pieces used throughout)
+(VIDEO HERE)
 
 The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/31. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
 

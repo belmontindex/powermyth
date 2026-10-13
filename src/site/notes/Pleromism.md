@@ -44,9 +44,9 @@ Those variations are embodied through fields of knowledge and behaviors called *
 - **[[20 - 29 Myths/27 Club Mythoscapes/27. Club\|Club]]**: affiliations and community, such as region, occupation, or political party.
 - **[[20 - 29 Myths/28 World Mythoscapes/28. World\|World]]**: purported universals, such as being, truth, or reality.
 
-Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|Myths]]** that help its subscribers rationalize the world around them, each with unique stories of who should be disliked ([[20 - 29 Myths/21 The Villain/21. The Villain\|The Villain]]) and who should be rooted for ([[20 - 29 Myths/22 The Hero/22. The Hero\|The Hero]]). They also set the stage ([[20 - 29 Myths/23 The Setting/23. The Setting\|The Setting]]) and describe what the heroes are up against ([[20 - 29 Myths/24 The Conflict/24. The Conflict\|The Conflict]]).
+Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|Myths]]** that help rationalize the world around us, each with unique stories of who should be disliked ([[20 - 29 Myths/21 The Villain/21. The Villain\|The Villain]]) and who should be rooted for ([[20 - 29 Myths/22 The Hero/22. The Hero\|The Hero]]). They also set the stage ([[20 - 29 Myths/23 The Setting/23. The Setting\|The Setting]]) and describe what the heroes are up against ([[20 - 29 Myths/24 The Conflict/24. The Conflict\|The Conflict]]).
 
-(VIDEO HERE)
+![myths explain our lives](https://dillonbelmont.com/03powermyth-assets/20/mythscroll16.gif)
 
 The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/31. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
 

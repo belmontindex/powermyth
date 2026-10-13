@@ -9,6 +9,7 @@
     "40 - 49 Realm Enforcers",
     "50 - 59 Realm Expanders",
     "60 - 69 Power Generators",
+    "70 - 79 Cyberspace",
     "80 - 89 Bibliography",
     "90. FAQ"
   ],
@@ -31,25 +32,25 @@
     "28 World Mythoscapes"
   ],
   "/20 - 29 Myths/21 The Villain": [
-    "21.00. The Villain"
+    "21. The Villain"
   ],
   "/20 - 29 Myths/22 The Hero": [
-    "22.00. The Hero"
+    "22. The Hero"
   ],
   "/20 - 29 Myths/23 The Setting": [
-    "23.00. The Setting"
+    "23. The Setting"
   ],
   "/20 - 29 Myths/24 The Conflict": [
-    "24.00. The Conflict"
+    "24. The Conflict"
   ],
   "/20 - 29 Myths/26 Self Mythoscapes": [
-    "26.02. Class"
+    "26.2. Class"
   ],
   "/20 - 29 Myths/27 Club Mythoscapes": [
-    "27.01. Capitalist"
+    "27.1. Capitalist"
   ],
   "/20 - 29 Myths/28 World Mythoscapes": [
-    "28.01. Knowledge"
+    "28.1. Knowledge"
   ],
   "/30 - 39 Realms": [
     "30. Realms"
@@ -71,20 +72,22 @@
     "61 Heterodoxy"
   ],
   "/60 - 69 Power Generators/61 Heterodoxy": [
-    "61.01. Countercultures"
+    "61.1. Countercultures"
+  ],
+  "/70 - 79 Cyberspace": [
+    "70. Cyberspace"
   ],
   "/80 - 89 Bibliography": [
     "80 Resources",
-    "81. Concepts",
-    "82 Discourses",
+    "81 Discourses",
+    "82. Concepts",
     "83. People",
     "84. Books"
   ],
   "/80 - 89 Bibliography/80 Resources": [
-    "80. Bibliography",
-    "80.05. Blueprint"
+    "80. Bibliography"
   ],
-  "/80 - 89 Bibliography/82 Discourses": [
-    "82. Discourses"
+  "/80 - 89 Bibliography/81 Discourses": [
+    "81. Discourses"
   ]
 }

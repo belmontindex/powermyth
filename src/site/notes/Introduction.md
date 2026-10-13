@@ -16,14 +16,10 @@ Much of our knowledge has been siloed across specialty and identity in a way tha
 
 ## The Blueprint
 
-Every page on the Index is written through its relation to [[10 - 19 Power/10. Power\|Power]], so it is highly recommended to read that section before any others. Regardless, here is a basic summary of key concepts.
-
-**Power is much more than a means for people to dominate each other. Instead...**
+Pages on this Index are categorized by their relation to Power, described through a framework called **[[Pleromism\|Pleromism]]**:
 - Power is a ubiquitous force that determines the boundaries of what every person can or cannot do ([[30 - 39 Realms/30. Realms\|Realms]]), both individually and as part of a collective;
-- Those who accumulate certain properties, such as wealth and status ([[10 - 19 Power/11. Capacitors\|Capacitors]]), have a greater potential to [[10 - 19 Power/12. Negotiators\|negotiate]] these boundaries;
-- Such influence is baked into the social stabilizers of institutions and culture ([[10 - 19 Power/13. Emitters\|Reactors]]), which can serve to maintain the status quo and reinforce exclusion or foster justice;
-
-This Index attempts to document patterns of action that are commonly used to restrict freedoms (embodied through the [[40 - 49 Realm Enforcers/40. Realm Enforcers\|Realm Enforcers]]) and expand them ([[50 - 59 Realm Expanders/50. Realm Expanders\|Realm Expanders]]), even though the distinction can be fuzzy. The Index also includes two sections on actors: [[10 - 19 Power/14. Conduits\|Power Conduits]] are entities that operate as vessels for Power in unique ways, while [[60 - 69 Power Generators/60. Power Generators\|Power Generators]] are those who mostly exist outside society's dominant Realm. All four sections help us understand the various ways Power can manifest.
+- Those who accumulate certain properties, such as wealth and status ([[10 - 19 Power/11. Capacitors\|Capacitors]]), have a greater potential to [[10 - 19 Power/12. Negotiators\|negotiate]] these boundaries; and
+- When Power is embedded in vessels of institutions and culture ([[10 - 19 Power/14. Conduits\|Conduits]]), the effects are passively reproduced to maintain the status quo ([[10 - 19 Power/13. Emitters\|Emitters]]).
 
 Oh, and then there's [[70 - 79 Cyberspace/70. Cyberspace\|Cyberspace]]... Well, stay tuned for that section.
 

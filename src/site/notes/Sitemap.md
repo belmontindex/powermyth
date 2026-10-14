@@ -12,6 +12,7 @@
 [[Sitemap\|Sitemap]]
 [[Introduction\|Introduction]]
 [[Pleromism\|Pleromism]]
+[[The Rot\|The Rot]]
 [[Pleromic Analysis\|Pleromic Analysis]]
 
 #### 10 - 19: Power
@@ -55,7 +56,6 @@
 ***The boundaries of possibility.***
 - [[30 - 39 Realms/30. Realms\|30. Realms]]
 - [[30 - 39 Realms/31. Collective Realms\|31. Collective Realms]]
-- [[30 - 39 Realms/32. Dominant Realms\|32. Dominant Realms]]
 
 #### 40 - 49: Realm Enforcers
 ***That which stabilizes.*** 
@@ -126,12 +126,11 @@
 #### 80 - 89: Resources
 ***Climb deeper into the well...*** 
 - [[80 - 89 Bibliography/80 Resources/80. Bibliography\|80. Bibliography]]
-- [[80 - 89 Bibliography/81. Concepts\|81. Concepts]]
-- [[80 - 89 Bibliography/82 Discourses/82. Discourses\|82. Discourses]]
-	- [[80 - 89 Bibliography/82 Discourses/82.01. Power Discourse\|82.01. Power Discourse]]
-	- [[80 - 89 Bibliography/82 Discourses/82.02. Culture Discourse\|82.02. Culture Discourse]]
-	- [[80 - 89 Bibliography/82 Discourses/82.03. Knowledge Discourse\|82.03. Knowledge Discourse]]
+- [[80 - 89 Bibliography/81 Discourses/81. Discourses\|81. Discourses]]
+	- [[80 - 89 Bibliography/81 Discourses/81.1. Power Discourse\|81.1. Power Discourse]]
+	- [[80 - 89 Bibliography/81 Discourses/81.2. Culture Discourse\|81.2. Culture Discourse]]
+	- [[80 - 89 Bibliography/81 Discourses/81.3. Knowledge Discourse\|81.3. Knowledge Discourse]]
+- [[80 - 89 Bibliography/82. Concepts\|82. Concepts]]
 - [[80 - 89 Bibliography/83. People\|83. People]]
-- [[80 - 89 Bibliography/84. Books\|84. Books]]
 
 #### [[90. FAQ\|90. FAQ]]

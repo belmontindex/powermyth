@@ -83,10 +83,10 @@
 <path d="M -1543.5 -720 C -1543.5 -550.8362923083087, -1267 -569.1637076916913, -1267 -400" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="03c5a24166d0fec6"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -1466.5 -938 C -1466.5 -708.4807633334408, -1267 -629.5192366665592, -1267 -400" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="b0021ae816658eef"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -945 560 C -945 640.00099999375, -1021 664.99900000625, -1021 745" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="1bb0cebd8c5f138d"  marker-end="url(#arrow-a882ff)" />
-<path d="M -1809 54 C -1809 217.06182876442912, -1966.5 266.93817123557085, -1966.5 430" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="ccdf84ccbd27f0a7"  marker-end="url(#arrow-a882ff)" />
-<path d="M -1809 54 C -1809 154.11773069741446, -1691.5 174.88226930258554, -1691.5 275" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ff70ae3c4fc8f109"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1795 58 C -1795 221.85176227309856, -1966.5 266.14823772690147, -1966.5 430" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="ccdf84ccbd27f0a7"  marker-end="url(#arrow-a882ff)" />
+<path d="M -1795 58 C -1795 154.16756209866196, -1691.5 178.83243790133804, -1691.5 275" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="ff70ae3c4fc8f109"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -225 -495 C -225 114.61167967813742, -1748 -1048.6116796781375, -1748 -439" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="944b68d513fbd41d"  marker-end="url(#arrow-vartextmuted)" />
-<path d="M -1748 -222 C -1748 -172, -1809 -204, -1809 -154" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="80c019f023dddbed"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1748 -222 C -1748 -172, -1795 -200, -1795 -150" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="80c019f023dddbed"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -997 -750 C -997 -265.55326402172955, -945 -24.446735978270453, -945 460" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f2cd28bfadf3e96a"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -1748 -222 C -1748 53.055267173708216, -1966.5 154.94473282629178, -1966.5 430" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="eb2170c79272faee"  marker-end="url(#arrow-a882ff)" />
 <path d="M -1748 -222 C -1748 187.83782158312334, -761 -356.83782158312334, -761 53" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="67b9450ad530788b"  marker-end="url(#arrow-vartextmuted)" />
@@ -101,7 +101,7 @@
 <path d="M -1748 -222 C -1748 -22.553967199144296, -1623.4460328008556 157, -1424 157" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="febd9a32626e9f71"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -1074 -341 C -715.7419365876044 -341, -381.5 -131.25806341239553, -381.5 227" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="7a60b55dc3d5fac0"  marker-end="url(#arrow-53dfdd)" />
 <path d="M -1240 157 C -895.4603651247073 157, -381.5 -117.53963487529268, -381.5 227" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="e05d17d364d1c4ad"  marker-end="url(#arrow-53dfdd)" />
-<path d="M -1809 54 C -1809 201.35698151088738, -1589.3569815108874 22, -1442 22" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="64c701f07ae396ea"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -1795 58 C -1795 199.93237826514428, -1583.9323782651443 22, -1442 22" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="64c701f07ae396ea"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -1332 200 C -1332 386.4913939033113, -945 273.5086060966887, -945 460" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="b42ede75f3c53abd"  marker-end="url(#arrow-53dfdd)" />
 <path d="M -1348 54 C -1348 602.8013119517847, -2171.1986880482154 57, -2720 57" fill="none" stroke="#53dfdd" stroke-width="2" class="canvas-edge" data-edge-id="914b4d4b3e103275"  marker-end="url(#arrow-53dfdd)" />
 <path d="M -2009 -1236 C -2009 -774.2459529143248, -1883.7540470856752 -242, -1422 -242" fill="none" stroke="#0011ff" stroke-width="2" class="canvas-edge" data-edge-id="399959676c041da9"  marker-end="url(#arrow-0011ff)" />
@@ -116,6 +116,8 @@
 <path d="M -1030 510 C -1533.4180767513221 510, -1782.5819232486779 590, -2286 590" fill="none" stroke="#a882ff" stroke-width="2" class="canvas-edge" data-edge-id="d8dd6c4715dd7730"  marker-end="url(#arrow-a882ff)" />
 <path d="M -2180 -720 C -2180 -479.3342566961388, -2760 -800.6657433038612, -2760 -560" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="af9b2db2e01dab91"  marker-end="url(#arrow-vartextmuted)" />
 <path d="M -2470 -720 C -2470 -587.5160387065664, -2760 -692.4839612934336, -2760 -560" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6b6dcdd218252e0e"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -761 400 C -761 494.88013490715537, -619 495.11986509284463, -619 590" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="532debde3810911b"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -176 598.5 C -321.1874650236721 598.5, -392.8125349763279 625, -538 625" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="6153784d73cf83fa"  marker-end="url(#arrow-vartextmuted)" />
 		</svg>
 		<div class="canvas-node canvas-node-group has-color" data-node-id="5267bee74809315b" style="transform: translate(-1980px, -520px); width: 1580px; height: 1040px; --canvas-color: #a882ff; ">
 	<div class="canvas-node-label">Continental Philosophy</div>
@@ -258,13 +260,6 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="U3R1YXJ0IEhhbGw="></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text has-color" data-node-id="241facbe1a401b2b" style="transform: translate(-1963px, -154px); width: 308px; height: 208px; --canvas-color: #fb464c;">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="KipQaGVub21lbm9sb2d5Kio6IFN0dWRpZXMgdGhlIHVuaXZlcnNhbCBmZWF0dXJlcyBvZiBob3cgc3ViamVjdGl2ZSBjb25zY2lvdXNuZXNzIGlzIGV4cGVyaWVuY2VkCi0gTWF1cmljZSBNZXJsZWF1LVBvbnR5Ci0gQWxmcmVkIFNjaHV0egotIE1hcnRpbiBIZWlkZWdnZXI="></div>
 		</div>
 	</div>
 </div>
@@ -496,6 +491,34 @@
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
 			<div class="canvas-node-text-content" data-markdown="WWFuaXMgVmFyb3VmYWtpcw=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="241facbe1a401b2b" style="transform: translate(-1949px, -150px); width: 308px; height: 208px; --canvas-color: #fb464c;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="KipQaGVub21lbm9sb2d5Kio6IFN0dWRpZXMgdGhlIHVuaXZlcnNhbCBmZWF0dXJlcyBvZiBob3cgc3ViamVjdGl2ZSBjb25zY2lvdXNuZXNzIGlzIGV4cGVyaWVuY2VkCi0gTWF1cmljZSBNZXJsZWF1LVBvbnR5Ci0gQWxmcmVkIFNjaHV0egotIE1hcnRpbiBIZWlkZWdnZXI="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="d2667c05b3c9a84f" style="transform: translate(-1667px, -83px); width: 207px; height: 83px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="SmVhbi1QYXVsIFNhcnRyZQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="00827e3566072af4" style="transform: translate(-1259px, 385px); width: 190px; height: 90px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="UGVycnkgQW5kZXJzb24="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text has-color" data-node-id="4f80a06cfb4020d9" style="transform: translate(-700px, 590px); width: 162px; height: 70px; --canvas-color: #53dfdd;">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered" style="text-align: center;">
+			<div class="canvas-node-text-content" data-markdown="TWFyayBQb3N0ZXI="></div>
 		</div>
 	</div>
 </div>

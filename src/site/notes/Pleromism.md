@@ -2,14 +2,28 @@
 {"dg-publish":true,"permalink":"/pleromism/","dg-note-properties":{}}
 ---
 
->[!faq] **Mysteries Yet Uncovered...**
->**Plemorism** is the theoretical framework described throughout the PowerMyth Index. Come back very soon for more...
+## Pleromism
 
-(==INTRO HERE==)
+**How do we achieve equity in the face of apathy, conflict, and hatred?**
+
+Change is hard. In some sense, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping that network in the first place! And we're constantly renegotiating those roles in everyday life.
+
+So change is possible, to some extent at least. But the notion of *that what could be* will always be constrained by *that which is*. In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted -- and it is our duty to unmask this. That is the goal of **Pleromism**.
+
+Our social order can only be understood through a recognition of the interconnectedness of... *everything*. Pleromism does not claim to explain everything, though it sets a blueprint that can be built upon to answer the following questions:
+- Why do some actions have greater effect?
+- Why are truth and science not universal?
+- What limits and enables us as a society?
+- What opportunities do we have for change?
+
+Let's begin.
+
+>[!faq] **Mysteries Yet Uncovered...**
+>**Pleromism** is the theoretical blueprint used throughout the PowerMyth Index. Last updated 10/13/2026.
 
 # 1. POWER
 
-Our lives are bounded by **[[10 - 19 Power/10. Power\|Power]]**, the network of social boundaries that shapes what is possible. To know Power is to understand where and how it manifests. 
+Our lives are bounded by **[[10 - 19 Power/10. Power\|Power]]**, the social boundaries that shapes what is possible. But where and how does it manifest?
 
 ![power defines what's possible](https://dillonbelmont.com/03powermyth-assets/power2.gif)
 
@@ -48,7 +62,7 @@ Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|My
 
 ![myths explain our lives](https://dillonbelmont.com/03powermyth-assets/20/mythscroll16.gif)
 
-The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/31. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
+The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/32. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
 
 ![collective realms exclude necessarily](https://dillonbelmont.com/03powermyth-assets/collective2.gif)
 
@@ -60,5 +74,6 @@ When a collective forges a new Realm, the contradictions within result in some i
 - **[[40 - 49 Realm Enforcers/45. Distributon\|Distributon]], the decider** who allocates resources.
 - **[[40 - 49 Realm Enforcers/46. Repressio\|Repressio]], the silencer** who prevents what is unacceptable.
 
-(VIDEO HERE)
+(==GIF HERE==)
+
 

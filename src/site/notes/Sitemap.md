@@ -55,7 +55,7 @@
 #### 30 - 39: Realms
 ***The boundaries of possibility.***
 - [[30 - 39 Realms/30. Realms\|30. Realms]]
-- [[30 - 39 Realms/31. Collective Realms\|31. Collective Realms]]
+- [[30 - 39 Realms/32. Collective Realms\|32. Collective Realms]]
 
 #### 40 - 49: Realm Enforcers
 ***That which stabilizes.*** 
@@ -125,7 +125,7 @@
 
 #### 80 - 89: Resources
 ***Climb deeper into the well...*** 
-- [[80 - 89 Bibliography/80 Resources/80. Bibliography\|80. Bibliography]]
+- [[80 - 89 Bibliography/80 Resources/80.1 Bibliography\|80.1 Bibliography]]
 - [[80 - 89 Bibliography/81 Discourses/81. Discourses\|81. Discourses]]
 	- [[80 - 89 Bibliography/81 Discourses/81.1. Power Discourse\|81.1. Power Discourse]]
 	- [[80 - 89 Bibliography/81 Discourses/81.2. Culture Discourse\|81.2. Culture Discourse]]

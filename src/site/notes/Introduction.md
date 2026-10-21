@@ -23,7 +23,7 @@ Pages on this Index are categorized by their relation to Power, described throug
 
 Oh, and then there's [[70 - 79 Cyberspace/70. Cyberspace\|Cyberspace]]... Well, stay tuned for that section.
 
-***Please visit the [[Sitemap\|Sitemap]] to view all pages. To get situated with the academic debates (and personal decisions) that informed this Index, head to the [[80 - 89 Bibliography/80 Resources/80. Bibliography\|Bibliography]] and Resources section.***
+***Please visit the [[Sitemap\|Sitemap]] to view all pages. To get situated with the academic debates (and personal decisions) that informed this Index, head to the [[80 - 89 Bibliography/80 Resources/80.1 Bibliography\|Bibliography]] and Resources section.***
 
 ## Epic Disclaimers
 

@@ -8,7 +8,7 @@
 
 Change is hard. In some sense, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping that network in the first place! And we're constantly renegotiating those roles in everyday life.
 
-So change is possible, to some extent at least. But the notion of *that what could be* will always be constrained by *that which is*. In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted -- and it is our duty to unmask this. That is the goal of **Pleromism**.
+So at least change is possible to some extent. But the notion of *that what could be* will always be constrained by *that which is*. In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted -- and it is our duty to unmask this. That is the goal of **Pleromism**.
 
 Our social order can only be understood through a recognition of the interconnectedness of... *everything*. Pleromism does not claim to explain everything, though it sets a blueprint that can be built upon to answer the following questions:
 - Why do some actions have greater effect?

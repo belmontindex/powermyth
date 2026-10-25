@@ -63,7 +63,7 @@
 - [[40 - 49 Realm Enforcers/41. Monadus\|41. Monadus]]
 - [[40 - 49 Realm Enforcers/42. Mithrot\|42. Mithrot]]
 - [[40 - 49 Realm Enforcers/43. Categorius\|43. Categorius]]
-- [[40 - 49 Realm Enforcers/44. Normaliza\|44. Normaliza]]
+- [[40 - 49 Realm Enforcers/44. Rationaliza\|44. Rationaliza]]
 - [[40 - 49 Realm Enforcers/45. Distributon\|45. Distributon]]
 - [[40 - 49 Realm Enforcers/46. Repressio\|46. Repressio]]
 

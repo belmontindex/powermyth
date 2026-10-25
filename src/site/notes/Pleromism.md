@@ -70,7 +70,7 @@ When a collective forges a new Realm, the contradictions within result in some i
 - **[[40 - 49 Realm Enforcers/41. Monadus\|Monadus]], the leader** who defines the dominant position.
 - **[[40 - 49 Realm Enforcers/42. Mithrot\|Mithrot]], the storyteller** who imbues meaning in myths.
 - **[[40 - 49 Realm Enforcers/43. Categorius\|Categorius]], the evaluator** who classifies information.
-- **[[40 - 49 Realm Enforcers/44. Normaliza\|Normaliza]], the peacemaker** who justifies the way it is.
+- **[[40 - 49 Realm Enforcers/44. Rationaliza\|Rationaliza]], the peacemaker** who justifies the way it is.
 - **[[40 - 49 Realm Enforcers/45. Distributon\|Distributon]], the decider** who allocates resources.
 - **[[40 - 49 Realm Enforcers/46. Repressio\|Repressio]], the silencer** who prevents what is unacceptable.
 

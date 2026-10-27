@@ -10,13 +10,11 @@ Change is hard. In some sense, we are subjects of a world where what we can or c
 
 So at least change is possible to some extent. But the notion of *that what could be* will always be constrained by *that which is*. In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted -- and it is our duty to unmask this. That is the goal of **Pleromism**.
 
-Our social order can only be understood through a recognition of the interconnectedness of... *everything*. Pleromism does not claim to explain everything, though it sets a blueprint that can be built upon to answer the following questions:
-- Why do some actions have greater effect?
-- Why are truth and science not universal?
-- What limits and enables us as a society?
-- What opportunities do we have for change?
-
-Let's begin.
+Our social order can only be understood through a recognition of the interconnectedness of... **everything**. Pleromism does not claim to *explain* everything, though it sets a blueprint that can be built upon to answer some the following questions:
+- Why do some actions have greater effect on society?
+- To what extent are truth and science not universal?
+- What limits and enables us as individuals and collectives?
+- What opportunities do we have for changing that which we take for granted?
 
 >[!faq] **Mysteries Yet Uncovered...**
 >**Pleromism** is the theoretical blueprint used throughout the PowerMyth Index. Last updated 10/13/2026.
@@ -75,5 +73,9 @@ When a collective forges a new Realm, the contradictions within result in some i
 - **[[40 - 49 Realm Enforcers/46. Repressio\|Repressio]], the silencer** who prevents what is unacceptable.
 
 (==GIF HERE==)
+
+>[!caution] this is like a quick summarized version, btw
+>- there's also an essay on the [[80 - 89 Bibliography/80 Resources/80.X Lineage Outline\|lineage of ideas]] and a [[80 - 89 Bibliography/80 Resources/80. GENEALOGY.canvas\|visual genealogy]] of related contributors
+>- for more detailed information on each of the components, visit their pages!! they might be a little barren now, but they will update/expand with time
 
 

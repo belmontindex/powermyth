@@ -75,7 +75,7 @@ When a collective forges a new Realm, the contradictions within result in some i
 (==GIF HERE==)
 
 >[!caution] this is like a quick summarized version, btw
->- there's also an essay on the [[80 - 89 Bibliography/80 Resources/80.X Lineage Outline\|lineage of ideas]] and a [[80 - 89 Bibliography/80 Resources/80. GENEALOGY.canvas\|visual genealogy]] of related contributors
+>- there's also an essay on the [[80 - 89 Bibliography/80 Resources/80.X Lineage Outline\|lineage of ideas]] and a [[80 - 89 Bibliography/80 Resources/80.1 Genealogy.canvas\|visual genealogy]] of related contributors
 >- for more detailed information on each of the components, visit their pages!! they might be a little barren now, but they will update/expand with time
 
 

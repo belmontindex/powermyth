@@ -125,7 +125,8 @@
 
 #### 80 - 89: Resources
 ***Climb deeper into the well...*** 
-- [[80 - 89 Bibliography/80 Resources/80.1 Bibliography\|80.1 Bibliography]]
+- [[80 - 89 Bibliography/80 Resources/80.X Lineage Outline\|80.X Lineage Outline]]
+- [[80 - 89 Bibliography/80 Resources/80.1 Genealogy.canvas\|80.1 Genealogy Visual]]
 - [[80 - 89 Bibliography/81 Discourses/81. Discourses\|81. Discourses]]
 	- [[80 - 89 Bibliography/81 Discourses/81.1. Power Discourse\|81.1. Power Discourse]]
 	- [[80 - 89 Bibliography/81 Discourses/81.2. Culture Discourse\|81.2. Culture Discourse]]

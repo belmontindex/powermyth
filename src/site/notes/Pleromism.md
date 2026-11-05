@@ -5,31 +5,7 @@
 ## Pleromism
 
 **What shapes our social order? What enables or prevents change?** These questions are deceptively simple but are fundamentally what this research is trying to understand.
-:::
-Our social order is a set of boundaries that define what is good, possible, rational, and normal. In theory, especially in a democracy, those boundaries are drawn by all of its members.
-- While contradicting interests naturally occur in any group, they are reconciled one way or another so that society can function. This means the boundaries are unavoidably exclusive but also constantly in negotiation to more closely reflect the general will of the collective.
-- That which is excluded can partially be observed when members of said collective act outside these boundaries, doing so at their own expense: If someone breaks the law, they are punished; if someone acts weird or unethically, there are consequences. This is the nature of the social contract.
-- Though there are also a variety of markers, primarily cultures and institutions, that express and uphold thethese boundaries. ==These markers are a touchstone for the many interconnected processes that make up the social order, and the dominant configuration at a given time can be referred to as a *Pleroma*.==
-	- Internet, values, community, family, science, religion, school, media, congress, policy, language, art
 
-==Yet it is probably uncontroversial to say such a model of society is oversimplified and incomplete.==
-If we reconsider those boundary markers, 
-- Surely, institutions were not shaped collectively if certain subsets of the population were and still are denied the right to vote. Neither can it be said that cultures were shaped intentionally when so much of what is passed down is learned implicitly at a young age.
-- The boundaries 
-
-
-- But the contradictions of liberalism are held together by a thin tape of idealistic myth. 
-
-
-Pleroma is filled with contradiction.
-- It can be changed yet is stagnant.
-- It constrains and it shapes.
-- 
-
-- Without fair or equal opportunity to shape these boundaries, society has a FALSE Pleroma. It is an illusion.
-
-The first step to achieve True Pleroma is to understand the complete answers to the questions originally posed: **What shapes our social order? What enables or prevents change?**
-:::
 
 >[!info] **Last Updated 11/4/2026**
 >**Pleromism** is the theoretical blueprint used throughout the PowerMyth Index.

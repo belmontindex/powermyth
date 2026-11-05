@@ -4,30 +4,45 @@
 
 ## Pleromism
 
-**How do we achieve equity in the face of apathy, conflict, and hatred?**
+**What shapes our social order? What enables or prevents change?** These questions are deceptively simple but are fundamentally what this research is trying to understand.
+:::
+Our social order is a set of boundaries that define what is good, possible, rational, and normal. In theory, especially in a democracy, those boundaries are drawn by all of its members.
+- While contradicting interests naturally occur in any group, they are reconciled one way or another so that society can function. This means the boundaries are unavoidably exclusive but also constantly in negotiation to more closely reflect the general will of the collective.
+- That which is excluded can partially be observed when members of said collective act outside these boundaries, doing so at their own expense: If someone breaks the law, they are punished; if someone acts weird or unethically, there are consequences. This is the nature of the social contract.
+- Though there are also a variety of markers, primarily cultures and institutions, that express and uphold thethese boundaries. ==These markers are a touchstone for the many interconnected processes that make up the social order, and the dominant configuration at a given time can be referred to as a *Pleroma*.==
+	- Internet, values, community, family, science, religion, school, media, congress, policy, language, art
 
-Change is hard. In some sense, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping that network in the first place! And we're constantly renegotiating those roles in everyday life.
+==Yet it is probably uncontroversial to say such a model of society is oversimplified and incomplete.==
+If we reconsider those boundary markers, 
+- Surely, institutions were not shaped collectively if certain subsets of the population were and still are denied the right to vote. Neither can it be said that cultures were shaped intentionally when so much of what is passed down is learned implicitly at a young age.
+- The boundaries 
 
-So at least change is possible to some extent. But the notion of *that what could be* will always be constrained by *that which is*. In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted -- and it is our duty to unmask this. That is the goal of **Pleromism**.
 
-Our social order can only be understood through a recognition of the interconnectedness of... **everything**. Pleromism does not claim to *explain* everything, though it sets a blueprint that can be built upon to answer some the following questions:
-- Why do some actions have greater effect on society?
-- To what extent are truth and science not universal?
-- What limits and enables us as individuals and collectives?
-- What opportunities do we have for changing that which we take for granted?
+- But the contradictions of liberalism are held together by a thin tape of idealistic myth. 
 
->[!faq] **Mysteries Yet Uncovered...**
->**Pleromism** is the theoretical blueprint used throughout the PowerMyth Index. Last updated 10/13/2026.
+
+Pleroma is filled with contradiction.
+- It can be changed yet is stagnant.
+- It constrains and it shapes.
+- 
+
+- Without fair or equal opportunity to shape these boundaries, society has a FALSE Pleroma. It is an illusion.
+
+The first step to achieve True Pleroma is to understand the complete answers to the questions originally posed: **What shapes our social order? What enables or prevents change?**
+:::
+
+>[!info] **Last Updated 11/4/2026**
+>**Pleromism** is the theoretical blueprint used throughout the PowerMyth Index.
 
 # 1. POWER
 
 Our lives are bounded by **[[10 - 19 Power/10. Power\|Power]]**, the social boundaries that shapes what is possible. But where and how does it manifest?
 
-![power defines what's possible](https://dillonbelmont.com/03powermyth-assets/power2.gif)
+![power defines what's possible](https://dillonbelmont.com/03powermyth-assets/power_full.gif)
 
 We understand social boundaries because of the **[[10 - 19 Power/14. Conduits\|Power Conduits]]**: cultures and the institutions that formalize their values. Our government, our relationships, our technology, and our language are all interrelated and bear influence on one another.
 
-![conduits absorb mechanics of power](https://dillonbelmont.com/03powermyth-assets/conduits.gif)
+![conduits absorb mechanics of power](https://dillonbelmont.com/03powermyth-assets/conduits2.gif)
 
 However, certain properties offer the potential to reshape those boundaries. These **[[10 - 19 Power/11. Capacitors\|Power Capacitors]]**, such as money, status, and information, can be accumulated under the right circumstances.
 
@@ -37,7 +52,9 @@ Capacitors can then be exchanged into active **[[10 - 19 Power/12. Negotiators\|
 
 ![power shifts the boundaries](https://dillonbelmont.com/03powermyth-assets/negotiators2.gif)
 
-When the properties of a Negotiator are embedded in a Conduit, they are perpetually reflected back as **[[10 - 19 Power/13. Emitters\|Power Emitters]]**. Passive effects from cultures and institutions, such as laws, norms, and customs, reproduce the Power that shaped them.
+But the notion of *that what could be* will always be constrained by *that which is*. When the properties of a Negotiator are embedded in a Conduit, they are perpetually reflected back as **[[10 - 19 Power/13. Emitters\|Power Emitters]]**. Passive effects from cultures and institutions, such as laws, norms, and customs, reproduce the Power that shaped them.
+
+In some sense, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping this network in the first place!
 
 ![cultures and institutions maintain boundaries](https://dillonbelmont.com/03powermyth-assets/emitters.gif)
 
@@ -63,6 +80,8 @@ Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|My
 The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/32. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
 
 ![collective realms exclude necessarily](https://dillonbelmont.com/03powermyth-assets/collective2.gif)
+
+Yet in any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted.
 
 When a collective forges a new Realm, the contradictions within result in some inherent instability. Excluded components have incentive to expand the boundaries, but constant negotiations threaten the Realm's composition. Therefore, taken-for-granted social forces known as **[[40 - 49 Realm Enforcers/40. Realm Enforcers\|Realm Enforcers]]** prevent significant change from occurring:
 - **[[40 - 49 Realm Enforcers/41. Monadus\|Monadus]], the leader** who defines the dominant position.

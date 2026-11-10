@@ -14,7 +14,7 @@ Even the hope for collective effort consistently seems bleak. When competing fac
 
 I believe our path forward can be revealed if we have a systematic approach to understanding two processes. First, **what is the social order, and what shapes it?** Then, **what enables or prevents change?** Both allow us to evaluate existing circumstances and consider what capacity must be built to foster a more equitable society. This is the blueprint of **Pleromism**.
 
-# 1. Order
+# Order
 
 In social life, there are a given set of boundaries that define what is good, possible, rational, normal, and so on. These boundaries constitute a **[[30 - 39 Realms/30. Realms\|REALM]]**.
 
@@ -38,7 +38,7 @@ In an equitable society, such a configuration would most closely represent the i
 
 Without fair opportunity for all to knowingly shape the boundaries that constrain them, domination occurs. This is the state of *False Pleroma*. 
 
-# 2. Change
+# Change
 
 If the dominant configuration of CONDUITS did not simply occur out of mutual agreement between parties involved in a collective, what determined their position? To answer this, we must turn to **[[10 - 19 Power/10. Power\|POWER]]** and its many manifestations.
 
@@ -60,26 +60,20 @@ Lastly, in the event that mechanisms of POWER are embedded in CONDUITS, they are
 
 If a discriminatory law continually restricts access to CAPACITORS to those who would otherwise change it, or if social expectations ostracize those who think differently... existing configurations can be reinforced indefinitely. 
 
-# 3. Limits
+# Limits
 
->[!warning] NEEDS MAJOR REVISION
+So, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are in some ways outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping this network in the first place! Why do we not then pursue a more equitable collective REALM? There are two primary reasons.
 
-So, we are subjects of a world where what we can or cannot do is defined by the meanings embedded in a network of the cultures and institutions that we are born into, which are in some ways outside of our immediate control. Yet simultaneously, we were the agents responsible for shaping this network in the first place! Why do we not then pursue a more equitable REALM?
+First, we must consider how collective REALMS, which are imperfectly composed of individual REALMS, are a macrocosm for the imperfect composition of individual REALMS. Every individual is ascribed, or subscribes to, a dynamic set of relationally defined fields of knowledge and behaviors called **[[20 - 29 Myths/25. Mythoscapes\|MYTHOSCAPES]]**. An individual's identities (race, class, gender, age, etc.) and affiliations (region, occupation, political party, etc.) may not completely overlap but set baselines for what actions and thoughts are defined in response to.
 
-Variations are embodied through fields of knowledge and behaviors called **[[20 - 29 Myths/25. Mythoscapes\|Mythoscapes]]**. Mythoscapes are relationally defined and operate at the following levels:
-- **[[20 - 29 Myths/26 Self Mythoscapes/26. Self\|Self]]**: characteristics and identity, such as race, class, gender, or age.
-- **[[20 - 29 Myths/27 Club Mythoscapes/27. Club\|Club]]**: affiliations and community, such as region, occupation, or political party.
-- **[[20 - 29 Myths/28 World Mythoscapes/28. World\|World]]**: purported universals, such as being, truth, or reality.
+(==GIF HERE==)
 
-Mythoscapes generally come with their own set of **[[20 - 29 Myths/20. Myths\|Myths]]** that help rationalize the world around us, each with unique stories of who should be disliked ([[20 - 29 Myths/21 The Villain/21. The Villain\|The Villain]]) and who should be rooted for ([[20 - 29 Myths/22 The Hero/22. The Hero\|The Hero]]). They also set the stage ([[20 - 29 Myths/23 The Setting/23. The Setting\|The Setting]]) and describe what the heroes are up against ([[20 - 29 Myths/24 The Conflict/24. The Conflict\|The Conflict]]).
+MYTHOSCAPES develop their own set of **[[20 - 29 Myths/20. Myths\|MYTHS]]** to rationalize the world and reconcile contradictions in normative structures. These stories typically adapt common structures to outline who should be disliked ([[20 - 29 Myths/21 The Villain/21. The Villain\|The Villain]]) and who should be rooted for ([[20 - 29 Myths/22 The Hero/22. The Hero\|The Hero]]). They may also set the stage ([[20 - 29 Myths/23 The Setting/23. The Setting\|The Setting]]) and describe what the heroes are up against ([[20 - 29 Myths/24 The Conflict/24. The Conflict\|The Conflict]]). Validity is irrelevant; what matters is how MYTHS provide socially constructed meaning to the group they are bonded to.
 
 ![myths explain our lives](https://dillonbelmont.com/03powermyth-assets/20/mythscroll16.gif)
 
-The Mythoscapes that a person is either ascribed or subscribes to, perhaps unsurprisingly, are also unlikely to perfectly overlap. The process by which Mythoscapes are reconciled to form an individual Realm mirrors the process by which individual Realms are reconciled to form a [[30 - 39 Realms/32. Collective Realms\|collective Realm]]: Both levels see necessary exclusions, clear priorities, and some amount of unresolved squishiness.
+Second, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Excluded components have incentive to expand the boundaries, but constant negotiations would threaten the REALM'S composition. Therefore, social processes that are typically invisible or otherwise taken for granted will manifest. These are the **[[40 - 49 Realm Enforcers/40. Realm Enforcers\|REALM ENFORCERS]]**:
 
-In any given moment, there is a limit to the scope of social change in a collective borne out of the function of ensuring its stability. Such processes are typically invisible or otherwise taken for granted.
-
-When a collective forges a new Realm, the contradictions within result in some inherent instability. Excluded components have incentive to expand the boundaries, but constant negotiations threaten the Realm's composition. Therefore, taken-for-granted social forces known as **[[40 - 49 Realm Enforcers/40. Realm Enforcers\|Realm Enforcers]]** prevent significant change from occurring:
 - **[[40 - 49 Realm Enforcers/41. Monadus\|Monadus]], the leader** who defines the dominant position.
 - **[[40 - 49 Realm Enforcers/42. Mithrot\|Mithrot]], the storyteller** who imbues meaning in myths.
 - **[[40 - 49 Realm Enforcers/43. Categorius\|Categorius]], the evaluator** who classifies information.
@@ -93,6 +87,6 @@ When a collective forges a new Realm, the contradictions within result in some i
 >[!faq] What Next?
 >- Learn more about the [[80 - 89 Bibliography/80 Resources/80.X Lineage Outline\|lineage of ideas]] and see a [[80 - 89 Bibliography/80 Resources/80.1 Genealogy.canvas\|visual genealogy]] 
 >- Visit the pages of the components described above to dive deeper
->- Understand how [[Pleromic Analysis\|Pleromic Analysis]] can be applied to any situation
+>- Understand how [[Pleromic Analysis\|Pleromic Analysis]] can be applied to analyze situations
 
 

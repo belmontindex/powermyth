@@ -131,7 +131,8 @@
 	- [[80 - 89 Bibliography/81 Discourses/81.1. Power Discourse\|81.1. Power Discourse]]
 	- [[80 - 89 Bibliography/81 Discourses/81.2. Culture Discourse\|81.2. Culture Discourse]]
 	- [[80 - 89 Bibliography/81 Discourses/81.3. Knowledge Discourse\|81.3. Knowledge Discourse]]
-- [[80 - 89 Bibliography/82. Concepts\|82. Concepts]]
-- [[80 - 89 Bibliography/83. People\|83. People]]
+- [[80 - 89 Bibliography/82 Concepts/82. Concepts\|82. Concepts]]
+- [[80 - 89 Bibliography/83 People/83. People\|83. People]]
+- [[80 - 89 Bibliography/84 Schools/84. Schools\|84. Schools]]
 
 #### [[90. FAQ\|90. FAQ]]

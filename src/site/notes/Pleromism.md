@@ -32,11 +32,9 @@ CONDUITS (much like the individual REALMS that form the collective) are not perf
 
 ![conduits absorb mechanics of power](https://dillonbelmont.com/03powermyth-assets/conduits2.gif)
 
-The dominant configuration of CONDUITS at any given time--the positions of these elements that make up the complex whole of society--is a *Pleroma*.
+The dominant configuration of CONDUITS at any given time, or the positions of these elements that make up the complex whole of society, is our main focus of inquiry.
 
-In an equitable society, such a configuration would most closely represent the interests of all individuals who are a part. Were boundaries democratically drawn by all members of a collective REALM, and did the previously described reconciliation and exclusion occur under mutual terms? Or were certain subsets of the population denied the right to vote? Were beliefs reproduced without intention when implicitly acquired at a young age? 
-
-Without fair opportunity for all to knowingly shape the boundaries that constrain them, domination occurs. This is the state of *False Pleroma*. 
+In an equitable society, such a configuration would most closely represent the interests of all individuals who are a part. Were boundaries democratically drawn by all members of a collective REALM, and did the previously described reconciliation and exclusion occur under mutual terms? Or were certain subsets of the population denied the right to vote? Were beliefs reproduced without intention when implicitly acquired at a young age? Without fair opportunity for all to knowingly shape the boundaries that constrain them, domination occurs.
 
 # Change
 

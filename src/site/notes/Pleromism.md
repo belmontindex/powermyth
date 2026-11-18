@@ -6,13 +6,15 @@
 
 ## Pleromism
 
-This research emerged from a desperate attempt to find out whether significant social change is really possible. 
+**Pleromism aims toward an integrated theory and method to use for research on inequity oriented toward totality.**
 
-We are simultaneously faced with an impending [climate disaster](https://www.jstor.org/stable/26891410), an extreme [concentration of wealth](https://wir2022.wid.world/executive-summary/) contrasted by a growing population [sleeping outside](https://www.huduser.gov/portal/sites/default/files/pdf/2024-AHAR-Part-1.pdf), and technology that [evolves at a faster rate](https://pdf.stafforini.com/collingridge-1980-social-control-technology.pdf) than we can reasonably control. Try as one might to redirect this trajectory (and good luck to them), individual efforts can hardly make a dent in issues so deeply embedded in the fabric of society. Are we prisoners to the wants of our ancestors and kings, destined toward some catastrophic fate?
+We simultaneously face an impending climate disaster, an extreme concentration of wealth contrasted by a growing population sleeping outside, and technology that evolves at a faster rate than we can reasonably control.[^1] These issues are enormously complex and woven into the fabric of everyday life that stretches across competing economic, political, and cultural interests. Some of those decisive factors are visible, like actors and their material resources. Others, like policies and the abstract ideas behind them, are harder to observe. Regardless, each one is a potential barrier to redirecting the trajectory of major social issues.
 
-Even the hope for collective effort consistently seems bleak. When competing factions across ideological lines overwhelmingly assume the other [disagrees with basic facts](https://www.pewresearch.org/short-reads/2025/07/30/most-americans-say-republican-and-democratic-voters-cannot-agree-on-basic-facts/), is it even possible to work together? Flurries of public debate are led by institutions that few trust, whether it be [the media](https://news.gallup.com/poll/695762/trust-media-new-low.aspx) or [legislative chambers](https://news.gallup.com/poll/1600/congress-public.aspx).  It has been [over twenty years](https://news.gallup.com/poll/1669/general-mood-country.aspx) since the last time more than half of Americans have felt positively about the direction of the country; these days, it's less than a quarter. Transparently, I'm somewhat skeptical change is truly on the table, but giving up isn't an option, either!
+So, is change possible? Or are we simply prisoners to the wills of our ancestors and kings, destined toward some catastrophic fate? The answer can only be revealed if we systematically chart out the components related to two processes:
+- **What is the social order and how is it shaped?**
+- **What enables or prevents change?**
 
-I believe our path forward can be revealed if we have a systematic approach to understanding two processes. First, **what is the social order, and what shapes it?** Then, **what enables or prevents change?** Both allow us to evaluate existing circumstances and consider what capacity must be built to foster a more equitable society. This is the blueprint of **Pleromism**.
+An equitable society is one in which individuals and groups have reasonable capacity to reshape their own boundaries of what is or is not possible. Fostering a social order that reflects the will of its people is a tall order, though it begins with unmasking mechanisms of power. Only when there is a unified recognition of how seemingly unrelated aspects of society are interconnected can we achieve **PLEROMA**.
 
 # Order
 
@@ -22,7 +24,7 @@ In social life, there are a given set of boundaries that define what is good, po
 
 Boundaries may be explicit or implicit. Regardless, we know these boundaries to exist because when individuals act outside of them, they do so at their expense: If someone breaks the law, they are punished; if someone acts weird or unethically, there are social consequences. This is the nature of the social contract.
 
-But while consequences might be more visible in a collective, they can also be self-imposed. In other words, REALMS exist at scale. Each individual has their own sense of good and rational that may not completely align with that of the collective. Forming the collective REALM of society, then, means some of the contradicting interests that naturally occur in a group are either reconciled or excluded.
+Consequences might be more visible in a collective, but they can also be self-imposed. Therefore, it is important to recognize that REALMS exist at scale. Each individual has their own sense of good and rational, and this may or may not completely align with that of the collective. Forming the collective REALM of society, then, means some of the contradicting interests that naturally occur in a group are either reconciled or excluded.
 
 ![collective realms exclude necessarily](https://dillonbelmont.com/03powermyth-assets/collective2.gif)
 
@@ -48,7 +50,7 @@ Certain properties offer the *potential* to reshape the boundaries of possibilit
 
 Then, that potential can be converted into active expressions of POWER. **[[10 - 19 Power/12. Negotiators\|NEGOTIATORS]]** represent the mechanisms that expand or contract the boundaries of possibility, e.g., passing a new law, paying off a debt, or creating an artistic expression.
 
-The scale of NEGOTIATORS occurs at either an individual or collective level, the latter of which is usually a result of targeting CONDUITS. Given the diversity of individual REALMS in a collective, it is often the case that these mechanisms do not have universal application (what expands in one direction may require contraction in another).
+There is a variable level of impact from NEGOTIATORS, where reshaping collective boundaries would usually be a result of targeting CONDUITS. Given the diversity of individual REALMS in a collective, it is often the case that these mechanisms do not have universal application (what expands in one direction may require contraction in another).
 
 ![power shifts the boundaries](https://dillonbelmont.com/03powermyth-assets/negotiators2.gif)
 
@@ -88,3 +90,6 @@ Second, there is a limit to the scope of social change in a collective borne out
 >- Understand how [[Pleromic Analysis\|Pleromic Analysis]] can be applied to analyze situations
 
 
+
+
+[^1]: Good options to check for [climate](https://www.jstor.org/stable/26891410), [wealth](https://wir2022.wid.world/executive-summary/),  [homelessness](https://www.huduser.gov/portal/sites/default/files/pdf/2024-AHAR-Part-1.pdf), and [tech](https://pdf.stafforini.com/collingridge-1980-social-control-technology.pdf) 

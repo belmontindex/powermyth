@@ -3,6 +3,7 @@
     "Sitemap",
     "Introduction",
     "Pleromism",
+    "Pleromic Analysis",
     "10 - 19 Power",
     "20 - 29 Myths",
     "30 - 39 Realms",
@@ -10,8 +11,7 @@
     "50 - 59 Realm Expanders",
     "60 - 69 Power Generators",
     "70 - 79 Cyberspace",
-    "80 - 89 Bibliography",
-    "90. FAQ"
+    "80 - 89 Bibliography"
   ],
   "/10 - 19 Power": [
     "10. Power",
@@ -60,9 +60,9 @@
     "41. Monadus",
     "42. Mithrot",
     "43. Categorius",
-    "44. Normaliza",
     "45. Distributon",
-    "46. Repressio"
+    "46. Repressio",
+    "44. Rationaliza"
   ],
   "/50 - 59 Realm Expanders": [
     "50. Realm Expanders"
@@ -80,14 +80,20 @@
   "/80 - 89 Bibliography": [
     "80 Resources",
     "81 Discourses",
-    "82. Concepts",
-    "83. People",
-    "84. Books"
+    "82 Concepts",
+    "83 People"
   ],
   "/80 - 89 Bibliography/80 Resources": [
-    "80. Bibliography"
+    "80.1 Genealogy",
+    "80.X Lineage Outline"
   ],
   "/80 - 89 Bibliography/81 Discourses": [
     "81. Discourses"
+  ],
+  "/80 - 89 Bibliography/82 Concepts": [
+    "82. Concepts"
+  ],
+  "/80 - 89 Bibliography/83 People": [
+    "83. People"
   ]
 }
